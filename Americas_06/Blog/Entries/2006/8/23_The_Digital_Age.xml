@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+<content collectionGUID="E4E8FEA2-F762-464C-9889-08667D918930">
+  <lastEdited clientType="local-build-20121209" date="2012-12-09 01:06:17 +0000"/>
+  <textBox id="generic-title-attributes" dynamic="no" visible="yes">
+    <richText>The Digital Age</richText>
+  </textBox>
+  <textBox id="generic-datefield-attributes" dynamic="no" visible="yes">
+    <richText>Tuesday, 22 August 2006</richText>
+  </textBox>
+  <textBox id="generic-body-attributes" dynamic="no" visible="yes">
+    <richText>All I have to say is thank god for digital camera&#x2019;s. Otherwise Flick and I would have one hefty film processing bill at &lt;a href="http://www.stallards.net.au/"&gt;Stallards&lt;/a&gt;!! Lets just say we&#x2019;ve become a little camera happy at the Grand Canyon. Maybe we are subconsciously trying to blend in with all these Japanese Tourists!&#xD;&#xD;The Grand Canyon is spectacular. We both agree that there are no words to describe how truly amazing it is. The only advice we can give is that you just have to come and experience it first hand (if you haven&#x2019;t already). &#xD;&#xD;To emphasize how small the world actually is, we bumped into a couple of fellow Hobartian&#x2019;s - Bill Vermey and his wife from Vermey&#x2019;s Quality Meats in Sandy Bay! No matter how far we go we still can&#x2019;t get away from home!</richText>
+  </textBox>
+  <image id="generic-picture-attributes" dynamic="no" visible="yes" src="23_The_Digital_Age_files/shapeimage_3.png" left="0px" top="0px" width="400px" height="300px"/>
+</content>

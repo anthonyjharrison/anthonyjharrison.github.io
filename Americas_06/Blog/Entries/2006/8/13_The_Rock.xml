@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+<content collectionGUID="E4E8FEA2-F762-464C-9889-08667D918930">
+  <lastEdited clientType="local-build-20121209" date="2012-12-09 01:06:13 +0000"/>
+  <textBox id="generic-title-attributes" dynamic="no" visible="yes">
+    <richText>The Rock</richText>
+  </textBox>
+  <textBox id="generic-datefield-attributes" dynamic="no" visible="yes">
+    <richText>Saturday, 12 August 2006</richText>
+  </textBox>
+  <textBox id="generic-body-attributes" dynamic="no" visible="yes">
+    <richText>Add another two people to the million or so that visit each year. Flick and I conquered &#x2018;The Rock&#x2019;. We took the first ferry over and spent the morning enjoying the sights. Unfortunately I felt the effects of the dodgy curry and had to use the conveniences in one of the cells. Felicity saw it as a good opportunity to embarrass me by taking a happy snap during the evacuation process!! How rude! :)</richText>
+  </textBox>
+  <image id="generic-picture-attributes" dynamic="no" visible="yes" src="13_The_Rock_files/shapeimage_3.png" left="0px" top="0px" width="400px" height="300px"/>
+</content>

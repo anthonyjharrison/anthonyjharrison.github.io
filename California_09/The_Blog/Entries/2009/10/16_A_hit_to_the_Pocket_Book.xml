@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<content collectionGUID="1DE57B86-E38D-4837-8355-45FB4AE995CA">
+  <lastEdited clientType="local-build-20121209" date="2012-12-09 01:04:30 +0000"/>
+  <textBox id="generic-header-attribute" dynamic="no" visible="yes">
+    <richText>&lt;b&gt;California Dreaming&lt;/b&gt;</richText>
+  </textBox>
+  <textBox id="generic-body-attributes" dynamic="no" visible="yes">
+    <richText>&lt;b&gt;With the weather set in (and a strong Aussie dollar) there really is only one thing to do - shop!&#xD;&#xD;The ladies hit the shops on Rodeo cleaning up at stores such as Dior, Prada and Jimmy Choo! Luckily the credit card was declined at all of them!&lt;/b&gt;</richText>
+  </textBox>
+  <textBox id="generic-title-attributes" dynamic="no" visible="yes">
+    <richText>A hit to the Pocket Book</richText>
+  </textBox>
+  <textBox id="generic-datefield-attributes" dynamic="no" visible="yes">
+    <richText>&lt;b&gt;Friday, 16 October 2009&lt;/b&gt;</richText>
+  </textBox>
+  <image id="generic-picture-attributes" dynamic="no" visible="yes" src="16_A_hit_to_the_Pocket_Book_files/shapeimage_4.png" left="0px" top="0px" width="333px" height="250px"/>
+</content>

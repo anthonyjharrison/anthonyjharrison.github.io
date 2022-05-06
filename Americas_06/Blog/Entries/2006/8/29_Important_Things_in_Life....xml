@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+<content collectionGUID="E4E8FEA2-F762-464C-9889-08667D918930">
+  <lastEdited clientType="local-build-20121209" date="2012-12-09 01:06:19 +0000"/>
+  <textBox id="generic-title-attributes" dynamic="no" visible="yes">
+    <richText>Important Things in Life...</richText>
+  </textBox>
+  <textBox id="generic-datefield-attributes" dynamic="no" visible="yes">
+    <richText>Tuesday, 29 August 2006</richText>
+  </textBox>
+  <textBox id="generic-body-attributes" dynamic="no" visible="yes">
+    <richText>... are shopping and eating, so thats what we did today!! :)&#xD;&#xD;Again New York City weather wasn&#x2019;t the finest but we still headed down to the &lt;a href="http://www.nps.gov/stli/"&gt;Statue of Liberty&lt;/a&gt; on our booked tour. Its was great to be able to enter the monument although they don&#x2019;t let you go any further than her feet. Apparently they haven&#x2019;t let anyone up to her crown in 5 years.&#xD;&#xD;Our morning consisted of a few other tourist sites including Ellis Island, Wall Street and the World Trade Centre Site.&#xD;&#xD;During the afternoon we took out time heading northward back to our home base. We dropped in on a number of famous Manhattan areas. Little Italy for food and SOHO for shops!&#xD;&#xD;We dined at &lt;a href="http://www.lombardispizza.com/pages/1/index.htm"&gt;Lombardi&#x2019;s&lt;/a&gt; for lunch. New York&#x2019;s first pizza place. Our advice - anyone that travels to New York has to go here. Best pizza I&#x2019;ve ever had - sorry &lt;a href="http://www.daangelo.com/"&gt;Da Angelo&lt;/a&gt;!&#xD;&#xD;The afternoon proved to be an expensive one. SOHO shopping was just too good! Felicity bought another pair of shoes and I purchased yet another pair of jeans. In the spirit of the &lt;a href="http://www.usopen.org/en_US/index.html"&gt;US Open&lt;/a&gt; which started today I&#x2019;ll give you a scorecard of the shopping tally.&#xD;&#xD;Felicity Roberts - 4 pairs of shoes +1 pair of jeans&#xD;Anthony Harrison - 2 pairs of shoes + 3 pairs of jeans&#xD;&#xD;PS. Please send money!</richText>
+  </textBox>
+  <image id="generic-picture-attributes" dynamic="no" visible="yes" src="29_Important_Things_in_Life..._files/shapeimage_3.png" left="0px" top="0px" width="400px" height="300px"/>
+</content>

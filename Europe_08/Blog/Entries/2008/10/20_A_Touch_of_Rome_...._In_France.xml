@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<content collectionGUID="BEC9A371-F810-4947-B795-01C17BCE20CD">
+  <lastEdited clientType="local-build-20121209" date="2012-12-09 01:10:41 +0000"/>
+  <textBox id="generic-header-attribute" dynamic="no" visible="yes">
+    <richText>EUROPE 08</richText>
+  </textBox>
+  <textBox id="generic-title-attributes" dynamic="no" visible="yes">
+    <richText>A Touch of Rome .... In France</richText>
+  </textBox>
+  <textBox id="generic-datefield-attributes" dynamic="no" visible="yes">
+    <richText>Monday, 20 October 2008</richText>
+  </textBox>
+  <image id="generic-picture-attributes" dynamic="no" visible="yes" src="20_A_Touch_of_Rome_...._In_France_files/shapeimage_1.png" left="0px" top="0px" width="416px" height="217px"/>
+  <textBox id="generic-body-attributes" dynamic="no" visible="yes">
+    <richText>On entering the south of France both of us became a little confused. In the drive down we thought we may have accidently taken the wrong &#x2018;Peage&#x2019; (French toll road), bypassed the region entirely and hit Italy given the amount of Roman history we&#x2019;ve witnessed over the last few days. It has been an interesting and somewhat educational part of our journey admiring the masterpieces of ancient civilization. Makes you want to try your hand at a little DIY project - maybe it is time to invest in some Lego for Christmas...&#xD;&#x2028;We spent an unforgettable morning at the Pont du Gard. This bridge sticks in both of our minds as a huge feat of engineering given the size of the structure, purpose and history that goes alongside it. We were lucky enough to arrive relatively early and beat all the tour groups which helped in finding prime picture locations and enjoying this must see attraction!&#xD;&#xD;Following this and in our final night in Nimes we had one of the most amazing meals of the trip to date. We followed some advice given to us from a local lady at the Office de Tourisme and went to a restaurant near our hotel (La Marmite - spelt like the spread but different in so many ways)! Here we enjoyed an amazing meal of scallops, more local seafood and amazing desserts! Our advice to any future traveler to this country is make use of the Office de Tourisme - every town we&#x2019;ve visited has one and they provide a wealth of information at absolutely no cost.</richText>
+  </textBox>
+</content>

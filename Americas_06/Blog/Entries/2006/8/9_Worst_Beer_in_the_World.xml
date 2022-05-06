@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+<content collectionGUID="E4E8FEA2-F762-464C-9889-08667D918930">
+  <lastEdited clientType="local-build-20121209" date="2012-12-09 01:06:12 +0000"/>
+  <textBox id="generic-title-attributes" dynamic="no" visible="yes">
+    <richText>Worst Beer in the World</richText>
+  </textBox>
+  <textBox id="generic-datefield-attributes" dynamic="no" visible="yes">
+    <richText>Tuesday, 8 August 2006</richText>
+  </textBox>
+  <textBox id="generic-body-attributes" dynamic="no" visible="yes">
+    <richText>I&#x2019;m very jealous of Davo Russ and Besty talking of all the fantastic European beer that they were drinking during their travels. Must have been fantastic sampling some of the finest brews in the world.&#xD;&#xD;Unfortunately I have experienced the bottom end of the scale that being Budweiser. Ok its a big statement as there is a number of candidates out there worthy for this award. &lt;a href="http://www.fosters.com.au/enjoy/beer/victoria_bitter.htm"&gt;VB&lt;/a&gt; comes to mind, matter of fact pretty much the whole &lt;a href="http://www.fosters.com.au/"&gt;Fosters&lt;/a&gt; range.&#xD;&#xD;Another interesting thing I&#x2019;ve noticed in the USA  is their light beers. I know we have light at home but here there is a subtle difference. Back home light beer is distinguished by having a low alcohol content - good for driving. Here, on the other hand light beer has a low carbohydrate - good for the &lt;a href="http://en.wikipedia.org/wiki/Atkins_Nutritional_Approach"&gt;Atkins diet&lt;/a&gt;. I find it quite ironic to see someone washing down &lt;a href="http://www.kfc.com/"&gt;KFC&#x2019;s&lt;/a&gt; Fiery Buffalo Boneless Wings or &lt;a href="http://www.tacobell.com/"&gt;Taco Bell&lt;/a&gt;&#x2019;s Nacho Crunch Grilled Stuft Burrito with a &lt;a href="http://www.budlight.com/index.html"&gt;Bud Light.&lt;/a&gt; </richText>
+  </textBox>
+  <image id="generic-picture-attributes" dynamic="no" visible="yes" src="9_Worst_Beer_in_the_World_files/shapeimage_3.png" left="0px" top="0px" width="400px" height="300px"/>
+</content>

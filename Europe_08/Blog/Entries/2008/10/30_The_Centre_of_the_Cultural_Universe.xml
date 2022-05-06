@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<content collectionGUID="BEC9A371-F810-4947-B795-01C17BCE20CD">
+  <lastEdited clientType="local-build-20121209" date="2012-12-09 01:10:50 +0000"/>
+  <textBox id="generic-header-attribute" dynamic="no" visible="yes">
+    <richText>Europe 08</richText>
+  </textBox>
+  <textBox id="generic-title-attributes" dynamic="no" visible="yes">
+    <richText>The Centre of the Cultural Universe</richText>
+  </textBox>
+  <textBox id="generic-datefield-attributes" dynamic="no" visible="yes">
+    <richText>Thursday, 30 October 2008</richText>
+  </textBox>
+  <image id="generic-picture-attributes" dynamic="no" visible="yes" src="30_The_Centre_of_the_Cultural_Universe_files/shapeimage_1.png" left="0px" top="0px" width="485px" height="211px"/>
+  <textBox id="generic-body-attributes" dynamic="no" visible="yes">
+    <richText>As you can no doubt tell with the lack of blog activity for the last 6 days we&#x2019;ve been having a ball in Paris. Our passion to enjoy this amazing city has not been dampened by the chilly weather! In a sense it is preparing us for what we will face in Bergen!!&#xD;&#xD;We haven&#x2019;t limited ourselves to just Paris. We ventured to the Champagne region for the day and were able to explore the amazing wineries of Mumm and Moet and Chandon obtaining a real understanding as to how the fizzy juice is put together. We were a little disappointed that we some how missed the wine cask part of the tour...&#xD;&#xD;As you&#x2019;ll notice in the photo&#x2019;s our group of 2 has doubled to 4 as Andrew and Mariann have joined us to enjoy this part of France. Collectively we&#x2019;re now butchering the local language twice as much as before, twice as likely to tread in dog poo and finally Pain au Chocolat is disappearing in this country twice as fast as it did a few days ago.&#xD;&#xD;As our time in Paris draws to a close so does our time in France. It will be sad to say goodbye - but fingers crossed it will be more of a &#x2018;see you soon&#x2019; type of farewell.&#xD;&#xD;Next stop on the trip is the Norwegian town of Bergen - renowned for its fjords and exceptionally strong currency against the Aussie dollar ... great!</richText>
+  </textBox>
+</content>

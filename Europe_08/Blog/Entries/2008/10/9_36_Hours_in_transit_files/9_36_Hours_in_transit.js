@@ -1,0 +1,11 @@
+// Created by iWeb 3.0.4 local-build-20121209
+
+setTransparentGifURL('../../../../Media/transparent.gif');function applyEffects()
+{var registry=IWCreateEffectRegistry();registry.registerEffects({stroke_0:new IWStrokeParts([{rect:new IWRect(-2,2,4,187),url:'9_36_Hours_in_transit_files/stroke.png'},{rect:new IWRect(-2,-2,4,4),url:'9_36_Hours_in_transit_files/stroke_1.png'},{rect:new IWRect(2,-2,263,4),url:'9_36_Hours_in_transit_files/stroke_2.png'},{rect:new IWRect(265,-2,4,4),url:'9_36_Hours_in_transit_files/stroke_3.png'},{rect:new IWRect(265,2,4,187),url:'9_36_Hours_in_transit_files/stroke_4.png'},{rect:new IWRect(265,189,4,4),url:'9_36_Hours_in_transit_files/stroke_5.png'},{rect:new IWRect(2,189,263,4),url:'9_36_Hours_in_transit_files/stroke_6.png'},{rect:new IWRect(-2,189,4,4),url:'9_36_Hours_in_transit_files/stroke_7.png'}],new IWSize(267,191)),stroke_1:new IWStrokeParts([{rect:new IWRect(-2,2,4,221),url:'9_36_Hours_in_transit_files/stroke_8.png'},{rect:new IWRect(-2,-2,4,4),url:'9_36_Hours_in_transit_files/stroke_9.png'},{rect:new IWRect(2,-2,296,4),url:'9_36_Hours_in_transit_files/stroke_10.png'},{rect:new IWRect(298,-2,4,4),url:'9_36_Hours_in_transit_files/stroke_11.png'},{rect:new IWRect(298,2,4,221),url:'9_36_Hours_in_transit_files/stroke_12.png'},{rect:new IWRect(298,223,4,4),url:'9_36_Hours_in_transit_files/stroke_13.png'},{rect:new IWRect(2,223,296,4),url:'9_36_Hours_in_transit_files/stroke_14.png'},{rect:new IWRect(-2,223,4,4),url:'9_36_Hours_in_transit_files/stroke_15.png'}],new IWSize(300,225))});registry.applyEffects();}
+function hostedOnDM()
+{return false;}
+function onPageLoad()
+{dynamicallyPopulate();loadMozillaCSS('9_36_Hours_in_transit_files/9_36_Hours_in_transitMoz.css')
+adjustLineHeightIfTooBig('id1');adjustFontSizeIfTooBig('id1');adjustLineHeightIfTooBig('id2');adjustFontSizeIfTooBig('id2');adjustLineHeightIfTooBig('id3');adjustFontSizeIfTooBig('id3');adjustLineHeightIfTooBig('id5');adjustFontSizeIfTooBig('id5');adjustLineHeightIfTooBig('id6');adjustFontSizeIfTooBig('id6');Widget.onload();fixupAllIEPNGBGs();fixAllIEPNGs('../../../../Media/transparent.gif');fixupIECSS3Opacity('id4');BlogFixupPreviousNext();applyEffects()}
+function onPageUnload()
+{Widget.onunload();}

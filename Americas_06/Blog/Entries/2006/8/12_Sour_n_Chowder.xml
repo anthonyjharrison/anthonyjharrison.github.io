@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+<content collectionGUID="E4E8FEA2-F762-464C-9889-08667D918930">
+  <lastEdited clientType="local-build-20121209" date="2012-12-09 01:06:13 +0000"/>
+  <textBox id="generic-title-attributes" dynamic="no" visible="yes">
+    <richText>Sour &#x2018;n&#x2019; Chowder</richText>
+  </textBox>
+  <textBox id="generic-datefield-attributes" dynamic="no" visible="yes">
+    <richText>Friday, 11 August 2006</richText>
+  </textBox>
+  <textBox id="generic-body-attributes" dynamic="no" visible="yes">
+    <richText>To all the people that recommended San Francisco&#x2019;s Seafood &lt;a href="http://en.wikipedia.org/wiki/Clam_chowder"&gt;Chowder&lt;/a&gt; in Sourdough - THANKYOU! &#xD;&#xD;Brilliant. Nuff said.&#xD;&#xD;Today marked Felicity&#x2019;s arrival to the United States (new highlight of the trip). After a week of flying solo I finally have a travel companion and I&#x2019;m absolutely over the moon. The added security brought about by the recent terrorist arrests meant that Fliss had to jump through a few more hoops than usual but other than that she&#x2019;s arrived safe and sound in fantastic San Francisco.&#xD;&#xD;Apart from a pretty stiff westerly wind it was another glorious day. After a quick stroll around the Fisherman&#x2019;s Wharf we headed out on a quick cruise around the bay. Don&#x2019;t forget to drop by and see the new additions to &lt;a href="perma://BLPageReference/DF64647C-BA0C-4409-9AC0-AAB86C142203"&gt;San Fran Pics&lt;/a&gt;.&#xD;&#xD;WWDC has now concluded and with that I can quite confidently say that nerd entries will now desist. In turn hopefully this marks the beginning of interesting blog entries and entertaining photos!</richText>
+  </textBox>
+  <image id="generic-picture-attributes" dynamic="no" visible="yes" src="12_Sour_n_Chowder_files/shapeimage_3.png" left="0px" top="0px" width="400px" height="300px"/>
+</content>

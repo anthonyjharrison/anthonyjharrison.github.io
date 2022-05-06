@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+<content collectionGUID="E4E8FEA2-F762-464C-9889-08667D918930">
+  <lastEdited clientType="local-build-20121209" date="2012-12-09 01:06:25 +0000"/>
+  <textBox id="generic-title-attributes" dynamic="no" visible="yes">
+    <richText>Fond Farewell</richText>
+  </textBox>
+  <textBox id="generic-datefield-attributes" dynamic="no" visible="yes">
+    <richText>Wednesday, 13 September 2006</richText>
+  </textBox>
+  <textBox id="generic-body-attributes" dynamic="no" visible="yes">
+    <richText>Our wonderful Canadian adventures have drawn to a close. Today marked our last full day trekking through the Rockies, as tomorrow we start our journey back to the west coast of the United States!&#xD;&#xD;On our last day here we headed to Maligne Lake and Maligne Canyon. The lake and canyon are the largest of their type in the Rockies. I was a probably a little keen donning shorts this morning as it has started to get a bit chilly. Didn&#x2019;t stop us from having an energetic day trekking around the tranquil lake and fighting off annoying tourists at the canyon.  Snow is forecast for overnight - who knows what sights we&#x2019;ll wake up to!</richText>
+  </textBox>
+  <image id="generic-picture-attributes" dynamic="no" visible="yes" src="14_Fond_Farewell_files/shapeimage_3.png" left="0px" top="0px" width="400px" height="300px"/>
+</content>

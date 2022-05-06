@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+ <id>urn:iweb:FFD5EC85-5584-40ED-AA8C-86F64FC52191</id>
+ <title>Page list Atom feed</title>
+ <updated>2012-12-09T12:06:09+11:00</updated>
+ <link rel="self" href="feed.xml"/>
+ <generator>iWeb</generator>
+ <author>
+  <name>iWeb</name>
+ </author>
+ <entry>
+  <id>urn:iweb:27773E42-050C-408C-811A-B0C049A95A83</id>
+  <title>Blog</title>
+  <title xmlns="urn:iweb:">Blog</title>
+  <in-navbar xmlns="urn:iweb:">27773E42-050C-408C-811A-B0C049A95A83</in-navbar>
+  <link rel="alternate" href="Blog/Blog.html"/>
+  <updated>2005-09-21T11:08:38+10:00</updated>
+  <content>Blog</content>
+ </entry>
+ <entry>
+  <id>urn:iweb:B96D6162-F2D5-4EF5-BD9E-EDB1E5DB8E3B</id>
+  <title>Movies</title>
+  <title xmlns="urn:iweb:">Movies</title>
+  <in-navbar xmlns="urn:iweb:">B96D6162-F2D5-4EF5-BD9E-EDB1E5DB8E3B</in-navbar>
+  <link rel="alternate" href="Movies.html"/>
+  <updated>2012-12-09T12:06:09.001+11:00</updated>
+  <content>Movies</content>
+ </entry>
+ <entry>
+  <id>urn:iweb:3ECBB41F-2FD4-49AB-991E-E869467D123A</id>
+  <title>Photos</title>
+  <title xmlns="urn:iweb:">Photos</title>
+  <in-navbar xmlns="urn:iweb:">3ECBB41F-2FD4-49AB-991E-E869467D123A</in-navbar>
+  <link rel="alternate" href="Photos.html"/>
+  <updated>2012-12-09T12:06:09.002+11:00</updated>
+  <content>Photos</content>
+ </entry>
+</feed>

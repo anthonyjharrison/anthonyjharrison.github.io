@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<content collectionGUID="FBED3F81-4805-4BDF-8C0B-7C3A3F26D61E">
+  <lastEdited clientType="local-build-20121209" date="2012-12-09 01:03:17 +0000"/>
+  <textBox id="generic-header-attribute" dynamic="no" visible="yes">
+    <richText>new york and newfoundland</richText>
+  </textBox>
+  <textBox id="generic-body-attributes" dynamic="no" visible="yes">
+    <richText>The day had come, the lead up was all behind us and everyone was in attendance - even Hurricane Earl - today was Steph and James&#x2019;s wedding!&#xD;The area of Gros Morne and Rocky Harbour is simply amazing. Pristine coastlines, steep rocky clifts. To top it off wildlife such as Bears, Moose and Whales can be seen with little effort.&#xD;It&#x2019;s hard to go wrong having a wedding in this setting. The ceremony took place in a small chapel in Norris Point set atop a rise above a natural harbour. Both bride and groom looked amazing - it wasn&#x2019;t long before they were husband and wife!&#xD;The afternoon and evening were action packed. Moose burgers before dinner, Hurricane Earl killing the power at the reception, dancing until 2am in the the morning!&#xD;Unfortunately all good things come to an end and as the lights went out on the reception so did our time in Newfoundland. Time to start the long trip home! Goodbye Newfoundland - our little slice of Tassie at the other end of the world!</richText>
+  </textBox>
+  <image id="generic-picture-attributes" dynamic="no" visible="yes" src="10_The_special_day_files/shapeimage_1.png" left="0px" top="0px" width="400px" height="250px"/>
+  <textBox id="generic-title-attributes" dynamic="no" visible="yes">
+    <richText>The special day</richText>
+  </textBox>
+  <textBox id="generic-datefield-attributes" dynamic="no" visible="yes">
+    <richText>&lt;b&gt;Sunday, 10 October 2010&lt;/b&gt;</richText>
+  </textBox>
+</content>

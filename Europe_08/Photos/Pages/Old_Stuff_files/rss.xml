@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:iphoto="urn:iphoto:property" xmlns:iweb="http://www.apple.com/iweb" version="2.0">
+  <channel>
+    <title>EUROPE 08</title>
+    <link>http://archive.anthonyandfelicity.com/Europe_08/Photos/Pages/Old_Stuff.html</link>
+    <description>IKEA furniture doesn’t fit into this landscape!</description>
+    <item>
+      <title>Old church</title>
+      <link>http://archive.anthonyandfelicity.com/Europe_08/Photos/Pages/Old_Stuff.html#0</link>
+      <guid isPermaLink="false">d0a24482-60c9-4703-83c4-1314bcbe6ba1</guid>
+      <enclosure url="http://archive.anthonyandfelicity.com/Europe_08/Photos/Pages/Old_Stuff_files/Media/IMG_0290/IMG_0290.jpg" length="89503" type="image/jpeg"/>
+      <iphoto:thumbnail>http://archive.anthonyandfelicity.com/Europe_08/Photos/Pages/Old_Stuff_files/Media/IMG_0290/thumb.jpg</iphoto:thumbnail>
+      <iweb:micro>http://archive.anthonyandfelicity.com/Europe_08/Photos/Pages/Old_Stuff_files/Media/IMG_0290/micro.jpg</iweb:micro>
+      <iweb:mip-thumbnail>http://archive.anthonyandfelicity.com/Europe_08/Photos/Pages/Old_Stuff_files/Media/IMG_0290/mip.jpg</iweb:mip-thumbnail>
+      <iweb:richTitle>&lt;div style=&quot;padding: 0px; &quot; class=&quot;image_cluster_layout_style_default_External_0_0&quot;&gt;&lt;div class=&quot;image_cluster_layout_style_default&quot;&gt;&lt;p style=&quot;padding-bottom: 0pt; padding-top: 0pt; &quot; class=&quot;Caption&quot;&gt;Old church&lt;/p&gt;&lt;/div&gt;&lt;/div&gt;</iweb:richTitle>
+    </item>
+    <item>
+      <title>Old bridge</title>
+      <link>http://archive.anthonyandfelicity.com/Europe_08/Photos/Pages/Old_Stuff.html#1</link>
+      <guid isPermaLink="false">1565cf09-a861-4f19-99de-f140e1f7d2cb</guid>
+      <enclosure url="http://archive.anthonyandfelicity.com/Europe_08/Photos/Pages/Old_Stuff_files/Media/IMG_0295/IMG_0295.jpg" length="113566" type="image/jpeg"/>
+      <iphoto:thumbnail>http://archive.anthonyandfelicity.com/Europe_08/Photos/Pages/Old_Stuff_files/Media/IMG_0295/thumb.jpg</iphoto:thumbnail>
+      <iweb:micro>http://archive.anthonyandfelicity.com/Europe_08/Photos/Pages/Old_Stuff_files/Media/IMG_0295/micro.jpg</iweb:micro>
+      <iweb:mip-thumbnail>http://archive.anthonyandfelicity.com/Europe_08/Photos/Pages/Old_Stuff_files/Media/IMG_0295/mip.jpg</iweb:mip-thumbnail>
+      <iweb:richTitle>&lt;div style=&quot;padding: 0px; &quot; class=&quot;image_cluster_layout_style_default_External_0_0&quot;&gt;&lt;div class=&quot;image_cluster_layout_style_default&quot;&gt;&lt;p style=&quot;padding-bottom: 0pt; padding-top: 0pt; &quot; class=&quot;Caption&quot;&gt;Old bridge&lt;/p&gt;&lt;/div&gt;&lt;/div&gt;</iweb:richTitle>
+    </item>
+    <item>
+      <title>Old street</title>
+      <link>http://archive.anthonyandfelicity.com/Europe_08/Photos/Pages/Old_Stuff.html#2</link>
+      <guid isPermaLink="false">2340b520-8464-458f-adb6-7469fd06f0e6</guid>
+      <enclosure url="http://archive.anthonyandfelicity.com/Europe_08/Photos/Pages/Old_Stuff_files/Media/IMG_0305/IMG_0305.jpg" length="133683" type="image/jpeg"/>
+      <iphoto:thumbnail>http://archive.anthonyandfelicity.com/Europe_08/Photos/Pages/Old_Stuff_files/Media/IMG_0305/thumb.jpg</iphoto:thumbnail>
+      <iweb:micro>http://archive.anthonyandfelicity.com/Europe_08/Photos/Pages/Old_Stuff_files/Media/IMG_0305/micro.jpg</iweb:micro>
+      <iweb:mip-thumbnail>http://archive.anthonyandfelicity.com/Europe_08/Photos/Pages/Old_Stuff_files/Media/IMG_0305/mip.jpg</iweb:mip-thumbnail>
+      <iweb:richTitle>&lt;div style=&quot;padding: 0px; &quot; class=&quot;image_cluster_layout_style_default_External_0_0&quot;&gt;&lt;div class=&quot;image_cluster_layout_style_default&quot;&gt;&lt;p style=&quot;padding-bottom: 0pt; padding-top: 0pt; &quot; class=&quot;Caption&quot;&gt;Old street&lt;/p&gt;&lt;/div&gt;&lt;/div&gt;</iweb:richTitle>
+    </item>
+    <item>
+      <title>Great view!</title>
+      <link>http://archive.anthonyandfelicity.com/Europe_08/Photos/Pages/Old_Stuff.html#3</link>
+      <guid isPermaLink="false">6e6f3a4a-66f6-4b33-b3fc-baf318c55fcb</guid>
+      <enclosure url="http://archive.anthonyandfelicity.com/Europe_08/Photos/Pages/Old_Stuff_files/Media/IMG_0320/IMG_0320.jpg" length="118064" type="image/jpeg"/>
+      <iphoto:thumbnail>http://archive.anthonyandfelicity.com/Europe_08/Photos/Pages/Old_Stuff_files/Media/IMG_0320/thumb.jpg</iphoto:thumbnail>
+      <iweb:micro>http://archive.anthonyandfelicity.com/Europe_08/Photos/Pages/Old_Stuff_files/Media/IMG_0320/micro.jpg</iweb:micro>
+      <iweb:mip-thumbnail>http://archive.anthonyandfelicity.com/Europe_08/Photos/Pages/Old_Stuff_files/Media/IMG_0320/mip.jpg</iweb:mip-thumbnail>
+      <iweb:richTitle>&lt;div style=&quot;padding: 0px; &quot; class=&quot;image_cluster_layout_style_default_External_0_0&quot;&gt;&lt;div class=&quot;image_cluster_layout_style_default&quot;&gt;&lt;p style=&quot;padding-bottom: 0pt; padding-top: 0pt; &quot; class=&quot;Caption&quot;&gt;Great view!&lt;/p&gt;&lt;/div&gt;&lt;/div&gt;</iweb:richTitle>
+    </item>
+  </channel>
+</rss>

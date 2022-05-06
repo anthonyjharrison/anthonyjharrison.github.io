@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:iphoto="urn:iphoto:property" xmlns:iweb="http://www.apple.com/iweb" version="2.0">
+  <channel>
+    <title>EUROPE 08</title>
+    <link>http://archive.anthonyandfelicity.com/Europe_08/Photos/Pages/Poitiers.html</link>
+    <description>Named after the famous Hollywood actor Sidney Poitier - pretty cool little town!</description>
+    <item>
+      <title>Up the cobbled stoned streets - watch the chien merde!!</title>
+      <link>http://archive.anthonyandfelicity.com/Europe_08/Photos/Pages/Poitiers.html#0</link>
+      <guid isPermaLink="false">97f337fe-2e95-4f2a-9273-582d98a8f812</guid>
+      <enclosure url="http://archive.anthonyandfelicity.com/Europe_08/Photos/Pages/Poitiers_files/Media/IMG_0447/IMG_0447.jpg" length="117983" type="image/jpeg"/>
+      <iphoto:thumbnail>http://archive.anthonyandfelicity.com/Europe_08/Photos/Pages/Poitiers_files/Media/IMG_0447/thumb.jpg</iphoto:thumbnail>
+      <iweb:micro>http://archive.anthonyandfelicity.com/Europe_08/Photos/Pages/Poitiers_files/Media/IMG_0447/micro.jpg</iweb:micro>
+      <iweb:mip-thumbnail>http://archive.anthonyandfelicity.com/Europe_08/Photos/Pages/Poitiers_files/Media/IMG_0447/mip.jpg</iweb:mip-thumbnail>
+      <iweb:richTitle>&lt;div style=&quot;padding: 0px; &quot; class=&quot;image_cluster_layout_style_default_External_0_0&quot;&gt;&lt;div class=&quot;image_cluster_layout_style_default&quot;&gt;&lt;p style=&quot;padding-bottom: 0pt; padding-top: 0pt; &quot; class=&quot;Caption&quot;&gt;Up the cobbled stoned streets - watch the chien merde!!&lt;/p&gt;&lt;/div&gt;&lt;/div&gt;</iweb:richTitle>
+    </item>
+    <item>
+      <title>Trying to be artistic</title>
+      <link>http://archive.anthonyandfelicity.com/Europe_08/Photos/Pages/Poitiers.html#1</link>
+      <guid isPermaLink="false">828320df-bab4-4915-8bae-1d73e2b69cf7</guid>
+      <enclosure url="http://archive.anthonyandfelicity.com/Europe_08/Photos/Pages/Poitiers_files/Media/IMG_0450/IMG_0450.jpg" length="116491" type="image/jpeg"/>
+      <iphoto:thumbnail>http://archive.anthonyandfelicity.com/Europe_08/Photos/Pages/Poitiers_files/Media/IMG_0450/thumb.jpg</iphoto:thumbnail>
+      <iweb:micro>http://archive.anthonyandfelicity.com/Europe_08/Photos/Pages/Poitiers_files/Media/IMG_0450/micro.jpg</iweb:micro>
+      <iweb:mip-thumbnail>http://archive.anthonyandfelicity.com/Europe_08/Photos/Pages/Poitiers_files/Media/IMG_0450/mip.jpg</iweb:mip-thumbnail>
+      <iweb:richTitle>&lt;div style=&quot;padding: 0px; &quot; class=&quot;image_cluster_layout_style_default_External_0_0&quot;&gt;&lt;div class=&quot;image_cluster_layout_style_default&quot;&gt;&lt;p style=&quot;padding-bottom: 0pt; padding-top: 0pt; &quot; class=&quot;Caption&quot;&gt;Trying to be artistic&lt;/p&gt;&lt;/div&gt;&lt;/div&gt;</iweb:richTitle>
+    </item>
+    <item>
+      <title>A slice of NYC</title>
+      <link>http://archive.anthonyandfelicity.com/Europe_08/Photos/Pages/Poitiers.html#2</link>
+      <guid isPermaLink="false">57765c65-22b1-43c4-8ee5-a3d3f3d38c1a</guid>
+      <enclosure url="http://archive.anthonyandfelicity.com/Europe_08/Photos/Pages/Poitiers_files/Media/IMG_0451/IMG_0451.jpg" length="112309" type="image/jpeg"/>
+      <iphoto:thumbnail>http://archive.anthonyandfelicity.com/Europe_08/Photos/Pages/Poitiers_files/Media/IMG_0451/thumb.jpg</iphoto:thumbnail>
+      <iweb:micro>http://archive.anthonyandfelicity.com/Europe_08/Photos/Pages/Poitiers_files/Media/IMG_0451/micro.jpg</iweb:micro>
+      <iweb:mip-thumbnail>http://archive.anthonyandfelicity.com/Europe_08/Photos/Pages/Poitiers_files/Media/IMG_0451/mip.jpg</iweb:mip-thumbnail>
+      <iweb:richTitle>&lt;div style=&quot;padding: 0px; &quot; class=&quot;image_cluster_layout_style_default_External_0_0&quot;&gt;&lt;div class=&quot;image_cluster_layout_style_default&quot;&gt;&lt;p style=&quot;padding-bottom: 0pt; padding-top: 0pt; &quot; class=&quot;Caption&quot;&gt;A slice of NYC&lt;/p&gt;&lt;/div&gt;&lt;/div&gt;</iweb:richTitle>
+    </item>
+  </channel>
+</rss>

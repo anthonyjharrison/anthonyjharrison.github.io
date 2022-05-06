@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+<content collectionGUID="E4E8FEA2-F762-464C-9889-08667D918930">
+  <lastEdited clientType="local-build-20121209" date="2012-12-09 01:06:11 +0000"/>
+  <textBox id="generic-title-attributes" dynamic="no" visible="yes">
+    <richText>Star-late</richText>
+  </textBox>
+  <textBox id="generic-datefield-attributes" dynamic="no" visible="yes">
+    <richText>Tuesday, 8 August 2006</richText>
+  </textBox>
+  <textBox id="generic-body-attributes" dynamic="no" visible="yes">
+    <richText>Later next week Felicity and I were going to jump on a scenic rail trip from San Fran to LA. The train is called the Coast Starlight it is run by &lt;a href="http://www.amtrak.com/"&gt;Amtrak&lt;/a&gt; and passes through arguably some of the most beautiful coastline of the world. The area is known as &lt;a href="http://en.wikipedia.org/wiki/Big_Sur"&gt;Big Sur&lt;/a&gt;. We purchased our tickets weeks ago and since that day I have been doing a little reading on what to expect. Lately the information i&#x2019;ve uncovered has indicated that the train runs at least 10 hours late. Today as I stepped out the door of my hotel room I noticed on the front page of my complimentary copy of the &lt;a href="http://www.sfgate.com/chronicle/"&gt;San Francisco Chronicle&lt;/a&gt; an article discussing this major issue. One point that has hit home from the article was the fact in the last 12 months only 2% of travelers on this train have arrived on time. Well looks like we&#x2019;ll be finding an alternative route to LA!!</richText>
+  </textBox>
+  <image id="generic-picture-attributes" dynamic="no" visible="yes" src="9_Star-late_files/shapeimage_3.png" left="0px" top="0px" width="400px" height="300px"/>
+</content>

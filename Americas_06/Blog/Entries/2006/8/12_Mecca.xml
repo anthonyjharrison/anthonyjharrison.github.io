@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+<content collectionGUID="E4E8FEA2-F762-464C-9889-08667D918930">
+  <lastEdited clientType="local-build-20121209" date="2012-12-09 01:06:12 +0000"/>
+  <textBox id="generic-title-attributes" dynamic="no" visible="yes">
+    <richText>Mecca</richText>
+  </textBox>
+  <textBox id="generic-datefield-attributes" dynamic="no" visible="yes">
+    <richText>Friday, 11 August 2006</richText>
+  </textBox>
+  <textBox id="generic-body-attributes" dynamic="no" visible="yes">
+    <richText>I have officially arrived at the heartland - Nerd &lt;a href="http://en.wikipedia.org/wiki/Mecca"&gt;Mecca&lt;/a&gt;. On Thursday night Apple handed out a behind the scenes look at their campus. Not just a lame guided tour - a campus bash. This was a crazy party. &lt;a href="http://www.thedjlist.com/djs/BT/"&gt;BT&lt;/a&gt; hooked up the tunes, &lt;a href="http://www.heineken.com/"&gt;Heineken&lt;/a&gt; looked after the suds and &lt;a href="http://www.tacobell.com/"&gt;Taco Bell&lt;/a&gt; catered the grub. I&#x2019;ve added a few new photos to the end of the WWDC photo gallery &lt;a href="perma://BLPageReference/80EBB278-9AEF-4748-A817-CB9F5AEF6F4B"&gt;here&lt;/a&gt;. This has been the highlight of the trip so far. Check out the cheesy grin in the pic above! Can you tell how psyched I am? :)</richText>
+  </textBox>
+  <image id="generic-picture-attributes" dynamic="no" visible="yes" src="12_Mecca_files/shapeimage_3.png" left="0px" top="0px" width="400px" height="300px"/>
+</content>

@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<content collectionGUID="FBED3F81-4805-4BDF-8C0B-7C3A3F26D61E">
+  <lastEdited clientType="local-build-20121209" date="2012-12-09 01:03:13 +0000"/>
+  <textBox id="generic-header-attribute" dynamic="no" visible="yes">
+    <richText>new york and newfoundland</richText>
+  </textBox>
+  <textBox id="generic-body-attributes" dynamic="no" visible="yes">
+    <richText>Once upon a time the Brooklyn Bridge was the tallest structure in New York city. Those days are well and truly behind us but the allure of the bridge is still evident.&#xD;The walk over the Brooklyn Bridge took us from our adopted Brooklyn home to Manhattan. It&#x2019;s a pretty magical view but made all that more special with a stop at the famous Brooklyn Ice Creamery (which is conveniently situated at the foot of the Brooklyn side of the bridge) to refuel for the not so strenuous walk.&#xD;The weather gods blessed us with warm weather and blue sky which provided a perfect formula for photographers delight. Of course, Andrew and Anthony were more than happy to take full advantage of this. To Mariann and Felicity&#x2019;s delight (or disgust) the 2000 metre walk ended up taking close on 3 hours - but hey...we got some great pics! &#xD;</richText>
+  </textBox>
+  <image id="generic-picture-attributes" dynamic="no" visible="yes" src="30_A_bridge_over_untroubled_waters_files/shapeimage_1.png" left="0px" top="0px" width="400px" height="250px"/>
+  <textBox id="generic-title-attributes" dynamic="no" visible="yes">
+    <richText>A bridge over untroubled waters</richText>
+  </textBox>
+  <textBox id="generic-datefield-attributes" dynamic="no" visible="yes">
+    <richText>&lt;b&gt;Monday, 30 August 2010&lt;/b&gt;</richText>
+  </textBox>
+</content>

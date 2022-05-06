@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+<content collectionGUID="E4E8FEA2-F762-464C-9889-08667D918930">
+  <lastEdited clientType="local-build-20121209" date="2012-12-09 01:06:11 +0000"/>
+  <textBox id="generic-title-attributes" dynamic="no" visible="yes">
+    <richText>Nerdsville USA</richText>
+  </textBox>
+  <textBox id="generic-datefield-attributes" dynamic="no" visible="yes">
+    <richText>Monday, 7 August 2006</richText>
+  </textBox>
+  <textBox id="generic-body-attributes" dynamic="no" visible="yes">
+    <richText>Today marked one of the biggest days in the &lt;a href="http://www.apple.com/"&gt;Apple&lt;/a&gt; calendar. The commencement of &lt;a href="http://developer.apple.com/wwdc/"&gt;WWDC06&lt;/a&gt;. The beginning of the conference is always marked with a keynote speech from Apple&#x2019;s head honcho &lt;a href="http://www.apple.com/pr/bios/jobs.html"&gt;Steve Jobs&lt;/a&gt;. Every Apple nerd in town (and a fair few from around the globe) seemed to have made a pilgrimage to this event. Kickoff was at 10am. Rumor has it that the line outside the venue started before 6am. Luckily I&#x2019;m still suffering from jet lag so i managed to make it down here around 7.30am. Ok so thats an lie... I woke up especially!!&#xD;&#xD;The place was mayhem. We lined up for what seemed forever (around 2.5 hours) before we were allowed into the auditorium. When Steve came in pandemonium struck. He received a rock stars welcome. People were up on their seats screaming his name. Pen pockets, socks and sandals were being throw onto the stage. God forbid no one threw undies at him. My experience with IT nerds is that showering only occurs biannually (myself excluded obviously).&#xD;&#xD;All in all it was a great morning. I met a couple of cool people in the line. One was a guy from &lt;a href="http://www.microsoft.com"&gt;Microsoft&lt;/a&gt; and the other a bloke from Sweden. A couple of awesome products were announced along with the new &lt;a href="http://en.wikipedia.org/wiki/Operating_system"&gt;OS&lt;/a&gt; due out next year. I am now tweaking &lt;a href="http://www.britespark.com.au"&gt;Brite Spark&#x2019;s&lt;/a&gt; accounts to see if i can afford one of &lt;a href="http://www.apple.com/macpro/"&gt;these&lt;/a&gt; puppy&#x2019;s!!</richText>
+  </textBox>
+  <image id="generic-picture-attributes" dynamic="no" visible="yes" src="8_Nerdsville_USA_files/shapeimage_3.png" left="0px" top="0px" width="400px" height="300px"/>
+</content>

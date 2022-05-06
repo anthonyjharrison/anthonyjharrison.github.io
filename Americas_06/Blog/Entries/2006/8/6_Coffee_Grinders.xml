@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+<content collectionGUID="E4E8FEA2-F762-464C-9889-08667D918930">
+  <lastEdited clientType="local-build-20121209" date="2012-12-09 01:06:10 +0000"/>
+  <textBox id="generic-title-attributes" dynamic="no" visible="yes">
+    <richText>Coffee Grinders</richText>
+  </textBox>
+  <textBox id="generic-datefield-attributes" dynamic="no" visible="yes">
+    <richText>Saturday, 5 August 2006</richText>
+  </textBox>
+  <textBox id="generic-body-attributes" dynamic="no" visible="yes">
+    <richText>Today was a stellar day. The weather was amazing. A little cool in the morning but by lunch it had easily hit mid twenties. Reminded me of a nice Hobart summers day.&#xD;&#xD;I caught a cable car to &lt;a href="http://en.wikipedia.org/wiki/Fisherman%27s_Wharf%2C_San_Francisco%2C_California"&gt;Fisherman's Wharf&lt;/a&gt; and walked through &lt;a href="http://en.wikipedia.org/wiki/Fort_Mason"&gt;Fort Mason&lt;/a&gt; and &lt;a href="http://en.wikipedia.org/wiki/Crissy_Field"&gt;Crissy Field&lt;/a&gt; to the &lt;a href="http://en.wikipedia.org/wiki/Golden_gate_bridge"&gt;Golden Gate Bridge&lt;/a&gt;. Everyone was in marathon mode on the paths today. I was informed that last Sunday was the &lt;a href="http://www.runsfm.com/"&gt;San Francisco Marathon&lt;/a&gt;. With the number of people I noticed running I concluded that either last weeks turnout was weak or large number of participants crave pain and didn&#x2019;t get enough punishment last weekend.&#xD;&#xD;While walking the 3 or so mile pathway I noticed a lot happening in the bay. Freight ships, cruises and canoes roamed the water. A very similar sight to that of a Sunday morning on the &lt;a href="http://en.wikipedia.org/wiki/Derwent_River,_Tasmania"&gt;Derwent&lt;/a&gt; was the sight of yachts in the water. &lt;a href="http://www.amazon.com/gp/search/ref=pd_sl_aw_tops-1_stripbooks_8154360_2/103-1088305-9651865?search-alias=stripbooks&amp;keywords=rob%20mundle&amp;rank=+relevancerank"&gt;Rob Mundle&lt;/a&gt; and his crew had a tough morning on the coffee grinders but by afternoon the wind was up and they had a chance to pop the &lt;a href="http://en.wikipedia.org/wiki/Spinnaker"&gt;Spinny&lt;/a&gt;.&#xD;&#xD;There are a few more pics of San Fran &lt;a href="perma://BLPageReference/DF64647C-BA0C-4409-9AC0-AAB86C142203"&gt;here&lt;/a&gt;.&#xD;</richText>
+  </textBox>
+  <image id="generic-picture-attributes" dynamic="no" visible="yes" src="6_Coffee_Grinders_files/shapeimage_3.png" left="0px" top="0px" width="400px" height="300px"/>
+</content>

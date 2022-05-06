@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+<content collectionGUID="E4E8FEA2-F762-464C-9889-08667D918930">
+  <lastEdited clientType="local-build-20121209" date="2012-12-09 01:06:10 +0000"/>
+  <textBox id="generic-title-attributes" dynamic="no" visible="yes">
+    <richText>Mike Novick</richText>
+  </textBox>
+  <textBox id="generic-datefield-attributes" dynamic="no" visible="yes">
+    <richText>Saturday, 5 August 2006</richText>
+  </textBox>
+  <textBox id="generic-body-attributes" dynamic="no" visible="yes">
+    <richText>A large amount of nasty weather in Sydney delayed both my flights early this morning. When I finally stepped on my plane to head to San Francisco it was around 2.30pm (take-off didn&#x2019;t eventuate until 4pm). As I sat down and appreciated the spare seat next to me, the time came for the Customer Service Manager to introduce himself and give his usual spiel of the wonders of In Flight Duty Free Shopping. I&#x2019;d usually tune out of this but his introduction caught me as he indicated that he was none other than &lt;a href="http://en.wikipedia.org/wiki/Mike_Novick"&gt;Mike Novick&lt;/a&gt;!! Talk about excitement. I couldn&#x2019;t help but wonder if any other members of &lt;a href="http://en.wikipedia.org/wiki/24_%28TV_series%29"&gt;24&lt;/a&gt; had boarded the plane. Sure would make the trip interesting to see &lt;a href="http://en.wikipedia.org/wiki/Jack_Bauer"&gt;Jack Bauer&lt;/a&gt; knock some heads in!!&#xD;&#x2028;Anyway I&#x2019;ve now safely arrived in San Francisco. I&#x2019;m staying at &lt;a href="http://www.clifthotel.com/"&gt;The Clift&lt;/a&gt; which is right in the heart of San Fran&#x2019;s shopping district. I&#x2019;ve been here for just on 8 hours and I already wish I had a bigger budget and a bigger bag!!</richText>
+  </textBox>
+  <image id="generic-picture-attributes" dynamic="no" visible="yes" src="5_Mike_Novick_files/shapeimage_3.png" left="0px" top="0px" width="400px" height="300px"/>
+</content>

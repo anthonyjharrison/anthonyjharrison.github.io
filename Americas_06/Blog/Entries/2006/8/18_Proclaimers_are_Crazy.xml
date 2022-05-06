@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+<content collectionGUID="E4E8FEA2-F762-464C-9889-08667D918930">
+  <lastEdited clientType="local-build-20121209" date="2012-12-09 01:06:15 +0000"/>
+  <textBox id="generic-title-attributes" dynamic="no" visible="yes">
+    <richText>Proclaimers are Crazy</richText>
+  </textBox>
+  <textBox id="generic-datefield-attributes" dynamic="no" visible="yes">
+    <richText>Thursday, 17 August 2006</richText>
+  </textBox>
+  <textBox id="generic-body-attributes" dynamic="no" visible="yes">
+    <richText>&lt;a href="http://www.proclaimers.co.uk/2003/"&gt;The Proclaimers&lt;/a&gt; reckon they &lt;a href="http://www.jansjoyousjungle.com/500.html"&gt;Would Walk 500 Miles&lt;/a&gt;. I&#x2019;ve just driven 500 and I'm stuffed, I&#x2019;m not even going to contemplate walking it.&#xD;&#xD;Today our drive took us from our overnight stop at San Luis Obispo to our final destination of &lt;a href="http://www.city.newport-beach.ca.us/"&gt;Newport Beach&lt;/a&gt;. We enjoyed a nice breakfast at Santa Barbara and strolled around Santa Monica and Venice Beach during lunch.&#xD;&#xD;On our way to Newport Beach we also took a few detours for stops at &lt;a href="http://www.ci.malibu.ca.us/"&gt;Malibu&lt;/a&gt;, &lt;a href="http://www.ci.manhattan-beach.ca.us/"&gt;Manhattan&lt;/a&gt; and &lt;a href="http://www.ci.huntington-beach.ca.us/"&gt;Huntington&lt;/a&gt; beaches.&#xD;&#xD;Due to LA traffic we arrived here late so there&#x2019;s no report on Newport Beach so far. We&#x2019;ll leave that until tomorrow. &#xD;&#xD;The only news I can share is that someone has managed to pinch my VISA card number and has enjoyed withdrawing close on AUD$3000 from &lt;a href="http://www.tesco.com/"&gt;Tesco&lt;/a&gt; ATM&#x2019;s in the UK. Thankfully I shouldn&#x2019;t have any issues in paying back the withdrawn cash - I&#x2019;ve been told the bank covers this. This does present a new hurdle in that now that I&#x2019;ve had to cancel my VISA card! How am I going to shop????&#xD;&#xD;</richText>
+  </textBox>
+  <image id="generic-picture-attributes" dynamic="no" visible="yes" src="18_Proclaimers_are_Crazy_files/shapeimage_3.png" left="0px" top="0px" width="400px" height="300px"/>
+</content>

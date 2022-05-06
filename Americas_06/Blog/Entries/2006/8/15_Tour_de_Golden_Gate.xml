@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+<content collectionGUID="E4E8FEA2-F762-464C-9889-08667D918930">
+  <lastEdited clientType="local-build-20121209" date="2012-12-09 01:06:14 +0000"/>
+  <textBox id="generic-title-attributes" dynamic="no" visible="yes">
+    <richText>Tour de Golden Gate</richText>
+  </textBox>
+  <textBox id="generic-datefield-attributes" dynamic="no" visible="yes">
+    <richText>Monday, 14 August 2006</richText>
+  </textBox>
+  <textBox id="generic-body-attributes" dynamic="no" visible="yes">
+    <richText>Floyd Landis had the benefit of performance enhancing steroids to do his little ride. We had to settle for performance enhancing ice cream. Yum yum!!&#xD;&#xD;Today we did what about a gazillion other tourists decided to do and hire bikes to ride the Golden Gate. San Francisco put on another stellar day (I&#x2019;m sounding like a broken record here) which really made the trip a blast.&#xD;&#xD;After conquering the Fisherman&#x2019;s Wharf and the Golden Gate, we rode to a cute little town on the other side of the bridge called &lt;a href="http://en.wikipedia.org/wiki/Sausalito,_California"&gt;Sausalito&lt;/a&gt;. The town is famous for its German sausage (hence its name). Actually I made that up. Would be cool if it were true. I have no idea what it is famous for apart from the fact that you can catch a ferry back to SF to save yourself busting a nut riding back over the bridge.&#xD;&#xD;We hung out and did a few other touristy things whilst in the Fisherman&#x2019;s Wharf area such as &lt;a href="http://en.wikipedia.org/wiki/Lombard_Street,_San_Francisco"&gt;Lombard St&lt;/a&gt;. We&#x2019;ve added a few more photos to the gallery &lt;a href="perma://BLPageReference/DF64647C-BA0C-4409-9AC0-AAB86C142203"&gt;here&lt;/a&gt;.</richText>
+  </textBox>
+  <image id="generic-picture-attributes" dynamic="no" visible="yes" src="15_Tour_de_Golden_Gate_files/shapeimage_3.png" left="0px" top="0px" width="400px" height="300px"/>
+</content>

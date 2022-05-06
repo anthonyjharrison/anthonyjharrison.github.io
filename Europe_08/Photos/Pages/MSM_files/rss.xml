@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:iphoto="urn:iphoto:property" xmlns:iweb="http://www.apple.com/iweb" version="2.0">
+  <channel>
+    <title>EUROPE 08</title>
+    <link>http://archive.anthonyandfelicity.com/Europe_08/Photos/Pages/MSM.html</link>
+    <description>A visit to Normandy is not complete without dropping by Le Mont St Michel.</description>
+    <item>
+      <title>Le Mont</title>
+      <link>http://archive.anthonyandfelicity.com/Europe_08/Photos/Pages/MSM.html#0</link>
+      <guid isPermaLink="false">0aba0f3b-a791-425f-8c8f-579ae4022dbb</guid>
+      <enclosure url="http://archive.anthonyandfelicity.com/Europe_08/Photos/Pages/MSM_files/Media/IMG_0273/IMG_0273.jpg" length="92697" type="image/jpeg"/>
+      <iphoto:thumbnail>http://archive.anthonyandfelicity.com/Europe_08/Photos/Pages/MSM_files/Media/IMG_0273/thumb.jpg</iphoto:thumbnail>
+      <iweb:micro>http://archive.anthonyandfelicity.com/Europe_08/Photos/Pages/MSM_files/Media/IMG_0273/micro.jpg</iweb:micro>
+      <iweb:mip-thumbnail>http://archive.anthonyandfelicity.com/Europe_08/Photos/Pages/MSM_files/Media/IMG_0273/mip.jpg</iweb:mip-thumbnail>
+      <iweb:richTitle>&lt;div style=&quot;padding: 0px; &quot; class=&quot;image_cluster_layout_style_default_External_0_0&quot;&gt;&lt;div class=&quot;image_cluster_layout_style_default&quot;&gt;&lt;p style=&quot;padding-bottom: 0pt; padding-top: 0pt; &quot; class=&quot;Caption&quot;&gt;Le Mont&lt;/p&gt;&lt;/div&gt;&lt;/div&gt;</iweb:richTitle>
+    </item>
+    <item>
+      <title>Le Mont avec Touriste</title>
+      <link>http://archive.anthonyandfelicity.com/Europe_08/Photos/Pages/MSM.html#1</link>
+      <guid isPermaLink="false">c4af009b-9101-4a06-b108-17d346dae28d</guid>
+      <enclosure url="http://archive.anthonyandfelicity.com/Europe_08/Photos/Pages/MSM_files/Media/IMG_0275/IMG_0275.jpg" length="108696" type="image/jpeg"/>
+      <iphoto:thumbnail>http://archive.anthonyandfelicity.com/Europe_08/Photos/Pages/MSM_files/Media/IMG_0275/thumb.jpg</iphoto:thumbnail>
+      <iweb:micro>http://archive.anthonyandfelicity.com/Europe_08/Photos/Pages/MSM_files/Media/IMG_0275/micro.jpg</iweb:micro>
+      <iweb:mip-thumbnail>http://archive.anthonyandfelicity.com/Europe_08/Photos/Pages/MSM_files/Media/IMG_0275/mip.jpg</iweb:mip-thumbnail>
+      <iweb:richTitle>&lt;div style=&quot;padding: 0px; &quot; class=&quot;image_cluster_layout_style_default_External_0_0&quot;&gt;&lt;div class=&quot;image_cluster_layout_style_default&quot;&gt;&lt;p style=&quot;padding-bottom: 0pt; padding-top: 0pt; &quot; class=&quot;Caption&quot;&gt;Le Mont avec Touriste&lt;/p&gt;&lt;/div&gt;&lt;/div&gt;</iweb:richTitle>
+    </item>
+    <item>
+      <title>Where’s Wally??</title>
+      <link>http://archive.anthonyandfelicity.com/Europe_08/Photos/Pages/MSM.html#2</link>
+      <guid isPermaLink="false">32863039-f864-49c1-8254-927448d13702</guid>
+      <enclosure url="http://archive.anthonyandfelicity.com/Europe_08/Photos/Pages/MSM_files/Media/IMG_0278/IMG_0278.jpg" length="95036" type="image/jpeg"/>
+      <iphoto:thumbnail>http://archive.anthonyandfelicity.com/Europe_08/Photos/Pages/MSM_files/Media/IMG_0278/thumb.jpg</iphoto:thumbnail>
+      <iweb:micro>http://archive.anthonyandfelicity.com/Europe_08/Photos/Pages/MSM_files/Media/IMG_0278/micro.jpg</iweb:micro>
+      <iweb:mip-thumbnail>http://archive.anthonyandfelicity.com/Europe_08/Photos/Pages/MSM_files/Media/IMG_0278/mip.jpg</iweb:mip-thumbnail>
+      <iweb:richTitle>&lt;div style=&quot;padding: 0px; &quot; class=&quot;image_cluster_layout_style_default_External_0_0&quot;&gt;&lt;div class=&quot;image_cluster_layout_style_default&quot;&gt;&lt;p style=&quot;padding-bottom: 0pt; padding-top: 0pt; &quot; class=&quot;Caption&quot;&gt;Where’s Wally??&lt;/p&gt;&lt;/div&gt;&lt;/div&gt;</iweb:richTitle>
+    </item>
+    <item>
+      <title>Tacky souvenirs</title>
+      <link>http://archive.anthonyandfelicity.com/Europe_08/Photos/Pages/MSM.html#3</link>
+      <guid isPermaLink="false">63163293-aaae-4897-9ddc-45f6f94e954c</guid>
+      <enclosure url="http://archive.anthonyandfelicity.com/Europe_08/Photos/Pages/MSM_files/Media/IMG_0281/IMG_0281.jpg" length="136774" type="image/jpeg"/>
+      <iphoto:thumbnail>http://archive.anthonyandfelicity.com/Europe_08/Photos/Pages/MSM_files/Media/IMG_0281/thumb.jpg</iphoto:thumbnail>
+      <iweb:micro>http://archive.anthonyandfelicity.com/Europe_08/Photos/Pages/MSM_files/Media/IMG_0281/micro.jpg</iweb:micro>
+      <iweb:mip-thumbnail>http://archive.anthonyandfelicity.com/Europe_08/Photos/Pages/MSM_files/Media/IMG_0281/mip.jpg</iweb:mip-thumbnail>
+      <iweb:richTitle>&lt;div style=&quot;padding: 0px; &quot; class=&quot;image_cluster_layout_style_default_External_0_0&quot;&gt;&lt;div class=&quot;image_cluster_layout_style_default&quot;&gt;&lt;p style=&quot;padding-bottom: 0pt; padding-top: 0pt; &quot; class=&quot;Caption&quot;&gt;Tacky souvenirs&lt;/p&gt;&lt;/div&gt;&lt;/div&gt;</iweb:richTitle>
+    </item>
+  </channel>
+</rss>

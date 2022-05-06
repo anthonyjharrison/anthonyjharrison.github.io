@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<content collectionGUID="BEC9A371-F810-4947-B795-01C17BCE20CD">
+  <lastEdited clientType="local-build-20121209" date="2012-12-09 01:10:45 +0000"/>
+  <textBox id="generic-header-attribute" dynamic="no" visible="yes">
+    <richText>europe 08</richText>
+  </textBox>
+  <textBox id="generic-title-attributes" dynamic="no" visible="yes">
+    <richText>Culture and a close call with the law!</richText>
+  </textBox>
+  <textBox id="generic-datefield-attributes" dynamic="no" visible="yes">
+    <richText>Thursday, 23 October 2008</richText>
+  </textBox>
+  <image id="generic-picture-attributes" dynamic="no" visible="yes" src="23_Culture_and_a_close_call_with_the_law%21_files/shapeimage_1.png" left="0px" top="0px" width="237px" height="195px"/>
+  <textBox id="generic-body-attributes" dynamic="no" visible="yes">
+    <richText>Not a lot to report over the last few days - we&#x2019;ve just been kicking back enjoying the sun and sights of the south of France.&#xD;&#xD;A couple of highlights (or lowlights) include:&#xD;&#xD;	1.	Felicity taking on the role of a human toilet for a family of pigeons in Antibes&#xD;	2.	Anthony being warned in the Picasso Museum for taking photo&#x2019;s - second time so far during the trip - I&#x2019;m guessing after the third I&#x2019;ll be thrown in the slammer&#xD;	3.	Enjoyed way too much good food and wine in Nice and now have a lot less money for the rest of the trip - see the &lt;a href="perma://BLPageReference/593635DE-007A-4285-BFB5-E003100B3663"&gt;photo album&lt;/a&gt; for evidence.&#xD;&#xD;No surprises to the fact we&#x2019;re still having a blast. We&#x2019;ve only got a few more days with the car - just enough to get us to Marseille in time to enjoy a couple of days eating bouillabaisse... ah I mean ... sightseeing. &#xD;&#xD;It will be sad to see the little car go as it has been a great companion giving us the flexibility to do pretty much anything we want. In some respects though we won&#x2019;t miss the thousand of roundabouts and the millions of mopeds. I have a great deal of respect for French motorists (and much hatred for moped riders)!</richText>
+  </textBox>
+</content>

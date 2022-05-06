@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+<content collectionGUID="E4E8FEA2-F762-464C-9889-08667D918930">
+  <lastEdited clientType="local-build-20121209" date="2012-12-09 01:06:17 +0000"/>
+  <textBox id="generic-title-attributes" dynamic="no" visible="yes">
+    <richText>Wonders of Rail</richText>
+  </textBox>
+  <textBox id="generic-datefield-attributes" dynamic="no" visible="yes">
+    <richText>Tuesday, 22 August 2006</richText>
+  </textBox>
+  <textBox id="generic-body-attributes" dynamic="no" visible="yes">
+    <richText>At the closing stages of our Californian stay we decided to visit the well known tourist trap of the &lt;a href="http://www.kodaktheatre.com/"&gt;Kodak Theatre&lt;/a&gt;. For those unfamiliar, this is where the &lt;a href="http://www.oscars.org/"&gt;Academy Awards&lt;/a&gt; are held. The day we visited they&#x2019;d forgotten to roll out the red carpet. I&#x2019;ll have to get onto my publicist when I get home! Surrounding the theatre we found our favorite stars on the &lt;a href="http://en.wikipedia.org/wiki/Hollywood_Walk_of_Fame"&gt;Walk of Fame&lt;/a&gt;, compared hands at &lt;a href="http://www.manntheaters.com/"&gt;Grauman&#x2019;s Theatre&lt;/a&gt; and gazed at the &lt;a href="http://en.wikipedia.org/wiki/Hollywood_Sign"&gt;Hollywood sign&lt;/a&gt;.&#xD;&#xD;Our next stop was the &lt;a href="http://en.wikipedia.org/wiki/Grand_Canyon"&gt;Grand Canyon&lt;/a&gt;. To reach our destination we were to catch the &lt;a href="http://www.amtrak.com"&gt;Amtrak&lt;/a&gt; operated &lt;a href="http://www.amtrak.com/servlet/ContentServer?pagename=Amtrak/am2Route/Horizontal_Route_Page&amp;c=am2Route&amp;cid=1081442673827&amp;ssid=132"&gt;Southwest Chief&lt;/a&gt;. The train trip was such a blast. We met a few friendly people during our comfortable ride. The only downside of the ride was being woken up at 4.20am as our train rolled into our destination of &lt;a href="http://www.flagstaff.az.gov/"&gt;Flagstaff&lt;/a&gt;. </richText>
+  </textBox>
+  <image id="generic-picture-attributes" dynamic="no" visible="yes" src="23_Wonders_of_Rail_files/shapeimage_3.png" left="0px" top="0px" width="400px" height="300px"/>
+</content>

@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+<content collectionGUID="E4E8FEA2-F762-464C-9889-08667D918930">
+  <lastEdited clientType="local-build-20121209" date="2012-12-09 01:06:20 +0000"/>
+  <textBox id="generic-title-attributes" dynamic="no" visible="yes">
+    <richText>Hat-trick</richText>
+  </textBox>
+  <textBox id="generic-datefield-attributes" dynamic="no" visible="yes">
+    <richText>Tuesday, 29 August 2006</richText>
+  </textBox>
+  <textBox id="generic-body-attributes" dynamic="no" visible="yes">
+    <richText>We&#x2019;ve had a hat-trick of gloomy days as today proved to be our third rainy grey day in a row. Must have pissed off the weather gods with our complaining of the heat in Vegas!!&#xD;&#xD;Today we caught the subway over to &lt;a href="http://en.wikipedia.org/wiki/Brooklyn"&gt;Brooklyn&lt;/a&gt; and walked back to &lt;a href="http://en.wikipedia.org/wiki/Manhattan"&gt;Manhattan&lt;/a&gt; over the &lt;a href="http://en.wikipedia.org/wiki/Brooklyn_Bridge"&gt;Brooklyn Bridge&lt;/a&gt;. Although a bit wet it was great fun. After the stroll we dropped into &lt;a href="http://en.wikipedia.org/wiki/South_Street_Seaport"&gt;South Street Seaport&lt;/a&gt; so Felicity could do some shopping. The poor girl had gone at least 3 hours without buying anything! Talk about an emergency situation! &#xD;&#xD;The day finished with a look around &lt;a href="http://en.wikipedia.org/wiki/Union_Square_%28New_York_City%29"&gt;Union Square&lt;/a&gt; and a quick piccy of &lt;a href="http://en.wikipedia.org/wiki/Flatiron_Building"&gt;Flatiron&lt;/a&gt;. Tonight we&#x2019;re indulging in a dose of culture as we are off to see a Broadway musical (&lt;a href="http://en.wikipedia.org/wiki/Spamalot"&gt;Spamalot&lt;/a&gt;) at the &lt;a href="http://en.wikipedia.org/wiki/Sam_S._Shubert_Theatre"&gt;Shubert Theatre&lt;/a&gt;.</richText>
+  </textBox>
+  <image id="generic-picture-attributes" dynamic="no" visible="yes" src="30_Hat-trick_files/shapeimage_3.png" left="0px" top="0px" width="400px" height="300px"/>
+</content>

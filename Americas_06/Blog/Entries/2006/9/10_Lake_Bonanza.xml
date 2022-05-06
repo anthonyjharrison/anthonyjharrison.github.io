@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+<content collectionGUID="E4E8FEA2-F762-464C-9889-08667D918930">
+  <lastEdited clientType="local-build-20121209" date="2012-12-09 01:06:23 +0000"/>
+  <textBox id="generic-title-attributes" dynamic="no" visible="yes">
+    <richText>Lake Bonanza</richText>
+  </textBox>
+  <textBox id="generic-datefield-attributes" dynamic="no" visible="yes">
+    <richText>Saturday, 9 September 2006</richText>
+  </textBox>
+  <textBox id="generic-body-attributes" dynamic="no" visible="yes">
+    <richText>There is no shortage of beautiful pristine lakes in the &lt;a href="http://en.wikipedia.org/wiki/Canadian_Rockies"&gt;Canadian Rockies&lt;/a&gt;. Today we ventured back to our favorite spot of the trip so far - &lt;a href="http://en.wikipedia.org/wiki/Moraine_Lake"&gt;Moraine Lake&lt;/a&gt;. It&#x2019;s only a matter of minutes from &lt;a href="http://en.wikipedia.org/wiki/Lake_Louise%2C_Alberta"&gt;Lake Louise&lt;/a&gt; and has the benefit of a considerable less amount of tourists. We hiked around &lt;a href="http://en.wikipedia.org/wiki/Moraine_Lake"&gt;Moraine Lake&lt;/a&gt; to make doubly sure there was no artificial process in place to dye the water. The colour is just amazing!&#xD;&#xD;The afternoon bought an impressive thunderstorm that disappeared just about as quick as it arrived. Luckily we were encased in our suburban tank (I&#x2019;m sure our rental has just finished a tour of duty in Iraq) so there was no risk of harm!&#xD;&#xD;We ventured back into Yoho National Park and hiked around &lt;a href="http://en.wikipedia.org/wiki/Emerald_Lake"&gt;Emerald Lake&lt;/a&gt;. Although the lake colour was not that of the lakes around Banff it was pleasant to stroll around without the hassle of thousands of tour groups. Just had to worry if we could outrun the bears!</richText>
+  </textBox>
+  <image id="generic-picture-attributes" dynamic="no" visible="yes" src="10_Lake_Bonanza_files/shapeimage_3.png" left="0px" top="0px" width="400px" height="300px"/>
+</content>

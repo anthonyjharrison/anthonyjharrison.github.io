@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+<content collectionGUID="E4E8FEA2-F762-464C-9889-08667D918930">
+  <lastEdited clientType="local-build-20121209" date="2012-12-09 01:06:24 +0000"/>
+  <textBox id="generic-title-attributes" dynamic="no" visible="yes">
+    <richText>Please send Internet</richText>
+  </textBox>
+  <textBox id="generic-datefield-attributes" dynamic="no" visible="yes">
+    <richText>Sunday, 10 September 2006</richText>
+  </textBox>
+  <textBox id="generic-body-attributes" dynamic="no" visible="yes">
+    <richText>I&#x2019;m not going to deny that I am a geek, I need my machine no matter where on earth I am! &lt;a href="http://en.wikipedia.org/wiki/Lake_Minnewanka"&gt;Lake Minnewanka&lt;/a&gt; (One can only guess how to pronounce it) serves as a perfect office location. If anyone can beam me a wireless Internet connection I&#x2019;d be mighty appreciative.&#xD;&#xD;Although Minnewanka is an impressive lake our highlight of the day would have to be ascending all 7800 feet of &lt;a href="http://en.wikipedia.org/wiki/Sulphur_Mountain"&gt;Sulpher Mountain&lt;/a&gt;. Our options were a half a day hike or a 5 minute gondola ride. It&#x2019;s not hard to guess which option we chose. &#xD;&#xD;The views from Sulpher Mountain didn&#x2019;t disappoint - full 360 views encompassing Banff and many iconic Canadian Rocky mountains.&#xD;&#xD;A extremely powerful lighting and thunder storm during the night must have awoken many of Banff&#x2019;s wildlife. This morning we came across a couple of grizzly&#x2019;s. Again, luckily we had a couple of thousand tonnes of metal (i.e. our car) between us and them. We just count ourselves lucky we haven&#x2019;t come across any on our mountain hikes!</richText>
+  </textBox>
+  <image id="generic-picture-attributes" dynamic="no" visible="yes" src="11_Please_send_Internet_files/shapeimage_3.png" left="0px" top="0px" width="400px" height="300px"/>
+</content>

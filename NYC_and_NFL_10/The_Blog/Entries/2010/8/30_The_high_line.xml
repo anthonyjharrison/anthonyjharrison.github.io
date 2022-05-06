@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<content collectionGUID="FBED3F81-4805-4BDF-8C0B-7C3A3F26D61E">
+  <lastEdited clientType="local-build-20121209" date="2012-12-09 01:03:14 +0000"/>
+  <textBox id="generic-header-attribute" dynamic="no" visible="yes">
+    <richText>new york and newfoundland</richText>
+  </textBox>
+  <textBox id="generic-body-attributes" dynamic="no" visible="yes">
+    <richText>New Yorkers are quite resourceful. One key example is the High Line - an old raised railway line which has been turned into a public park.&#xD;Wanting something different the gang decided it was worthwhile exploring a New York destination that didn&#x2019;t revolve around shopping, eating or drinking - contentious we know!&#xD;Wandering through the streets of Chelsea and the Meatpacking District we stumbled upon the High Line. This once abandoned space is now sparse of weeds and rusting steel and is abundant with gardens, benches and interesting viewing points. It&#x2019;s a work in progress but sometime in the next couple of years it will be close to 20-30 blocks long! &#xD;It&#x2019;s quite an experience walking through gardens above New York City traffic and feels like you&#x2019;re miles away from the hustle and bustle below!</richText>
+  </textBox>
+  <image id="generic-picture-attributes" dynamic="no" visible="yes" src="30_The_high_line_files/shapeimage_1.png" left="0px" top="0px" width="400px" height="250px"/>
+  <textBox id="generic-title-attributes" dynamic="no" visible="yes">
+    <richText>The high line</richText>
+  </textBox>
+  <textBox id="generic-datefield-attributes" dynamic="no" visible="yes">
+    <richText>&lt;b&gt;Monday, 30 August 2010&lt;/b&gt;</richText>
+  </textBox>
+</content>

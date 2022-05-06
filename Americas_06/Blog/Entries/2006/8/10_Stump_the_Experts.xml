@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+<content collectionGUID="E4E8FEA2-F762-464C-9889-08667D918930">
+  <lastEdited clientType="local-build-20121209" date="2012-12-09 01:06:12 +0000"/>
+  <textBox id="generic-title-attributes" dynamic="no" visible="yes">
+    <richText>Stump the Experts</richText>
+  </textBox>
+  <textBox id="generic-datefield-attributes" dynamic="no" visible="yes">
+    <richText>Wednesday, 9 August 2006</richText>
+  </textBox>
+  <textBox id="generic-body-attributes" dynamic="no" visible="yes">
+    <richText>Finally I'm allowed to share with you a session from my conference!! Every session here at WWDC has a strict proviso that anything mentioned during the presentation is confidential. Since i cannot share anything with you let me just say that there are some really cool things in the pipeline (that is Apple&#x2019;s standard comment when asked about future technology)!!&#xD;&#xD;Last night they held a session that I am allowed to share with you folks out there. Is called Stump the Experts. Being a nerd i found it extremely entertaining!! Its a simple game show type session where the nerds in the audience get to ask quiz questions to a selection of engineer. These guys and gals are the smartest in the industry. Some pretty big names appeared on stage. Ok ... no one that a normal person would know!!&#xD;&#xD;At lunch today they had a session that was led by an software engineer at a certain animation studio that I absolutely love (if you know me you know who I&#x2019;m talking about). I know I&#x2019;m not meant to talk about it so i won&#x2019;t, but i have to say that this session was absolutely fantastic as we were taken on a behind the scenes look at what Apple technology does to aid in the compilation of these amazing movies!! I&#x2019;ve already checked and unfortunately they don&#x2019;t have any open positions!! :)</richText>
+  </textBox>
+  <image id="generic-picture-attributes" dynamic="no" visible="yes" src="10_Stump_the_Experts_files/shapeimage_3.png" left="0px" top="0px" width="400px" height="300px"/>
+</content>

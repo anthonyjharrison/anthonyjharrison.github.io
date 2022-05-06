@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<content collectionGUID="FBED3F81-4805-4BDF-8C0B-7C3A3F26D61E">
+  <lastEdited clientType="local-build-20121209" date="2012-12-09 01:03:14 +0000"/>
+  <textBox id="generic-header-attribute" dynamic="no" visible="yes">
+    <richText>new york and newfoundland</richText>
+  </textBox>
+  <textBox id="generic-body-attributes" dynamic="no" visible="yes">
+    <richText>Luckily for her, we all got to celebrate Mariann&#x2019;s 30th birthday in New York City.&#xD;Andrew thoughtfully planned out a number of  &#x2018;30 centric&#x2019; activities including a trip to the Thirty Thirty hotel, 30 Street Guitars and 30 Rockefeller Centre. At either end of all this touring was obviously food with breakfast at the W Hotel and an amazing lunch at Nougatine in Central Park. &#xD;As seems to be the norm, New York put on a great day - perfect for Mariann on her birthday and even better for our pics atop Rockefeller Centre</richText>
+  </textBox>
+  <image id="generic-picture-attributes" dynamic="no" visible="yes" src="30_A_day_of_thirties_files/shapeimage_1.png" left="0px" top="0px" width="400px" height="250px"/>
+  <textBox id="generic-title-attributes" dynamic="no" visible="yes">
+    <richText>A day of thirties</richText>
+  </textBox>
+  <textBox id="generic-datefield-attributes" dynamic="no" visible="yes">
+    <richText>&lt;b&gt;Monday, 30 August 2010&lt;/b&gt;</richText>
+  </textBox>
+</content>

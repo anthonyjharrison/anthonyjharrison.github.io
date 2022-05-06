@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:iphoto="urn:iphoto:property" xmlns:iweb="http://www.apple.com/iweb" version="2.0">
+  <channel>
+    <title>California Dreaming</title>
+    <link>http://archive.anthonyandfelicity.com/California_09/The_Pics/The_Pics.html</link>
+    <description>California Dreaming</description>
+    <item>
+      <title>LA &amp;  Hollywood</title>
+      <link>http://archive.anthonyandfelicity.com/California_09/The_Pics/Pages/LA_%26_Hollywood.html</link>
+      <guid isPermaLink="false">475e8cba-5737-4fac-95e4-ce1cfed35dba</guid>
+    </item>
+    <item>
+      <title>Beaches of LA</title>
+      <link>http://archive.anthonyandfelicity.com/California_09/The_Pics/Pages/Beaches_of_LA.html</link>
+      <guid isPermaLink="false">fd3b9f3e-e1c5-49a6-be6f-265a7ec93e5f</guid>
+    </item>
+    <item>
+      <title>Yosemite</title>
+      <link>http://archive.anthonyandfelicity.com/California_09/The_Pics/Pages/Yosemite.html</link>
+      <guid isPermaLink="false">70af0dd8-7712-448a-908e-6c0bcb9e2dff</guid>
+    </item>
+    <item>
+      <title>Lake Tahoe</title>
+      <link>http://archive.anthonyandfelicity.com/California_09/The_Pics/Pages/Lake_Tahoe.html</link>
+      <guid isPermaLink="false">ebc6b8f4-b113-4292-9681-665772485156</guid>
+    </item>
+    <item>
+      <title>Napa</title>
+      <link>http://archive.anthonyandfelicity.com/California_09/The_Pics/Pages/Napa.html</link>
+      <guid isPermaLink="false">3072f674-b0bc-425e-b94e-79f52a0aabfa</guid>
+    </item>
+    <item>
+      <title>San Francisco</title>
+      <link>http://archive.anthonyandfelicity.com/California_09/The_Pics/Pages/San_Francisco.html</link>
+      <guid isPermaLink="false">01e631fa-e09b-46b7-a42f-943c83fabb87</guid>
+    </item>
+    <item>
+      <title>So Cal</title>
+      <link>http://archive.anthonyandfelicity.com/California_09/The_Pics/Pages/So_Cal.html</link>
+      <guid isPermaLink="false">ea8e15ff-9da3-48b8-a97a-8d3f42305c75</guid>
+    </item>
+  </channel>
+</rss>

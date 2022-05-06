@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+<content collectionGUID="E4E8FEA2-F762-464C-9889-08667D918930">
+  <lastEdited clientType="local-build-20121209" date="2012-12-09 01:06:22 +0000"/>
+  <textBox id="generic-title-attributes" dynamic="no" visible="yes">
+    <richText>147 Floors of Madness</richText>
+  </textBox>
+  <textBox id="generic-datefield-attributes" dynamic="no" visible="yes">
+    <richText>Wednesday, 6 September 2006</richText>
+  </textBox>
+  <textBox id="generic-body-attributes" dynamic="no" visible="yes">
+    <richText>Today we conquered over 1800 feet of the &lt;a href="http://en.wikipedia.org/wiki/CN_Tower"&gt;CN Tower&lt;/a&gt; - the worlds largest free standing structure. Its height is breathtaking and you really got a good sense of how far up you are from the glass floor.&#xD;&#xD;We&#x2019;ve had a couple of magic days in Toronto with James and Steph. Yesterday evening we traveled to &lt;a href="http://en.wikipedia.org/wiki/Toronto_Island"&gt;Toronto Island&lt;/a&gt; via the ferry and took some amazing pictures of the city skyline. We&#x2019;ve had so much fun with them both its hard to say goodbye. Hopefully we&#x2019;ll all catch up really soon!!&#xD;&#xD;Tomorrow we are off to the &lt;a href="http://en.wikipedia.org/wiki/Canadian_Rockies"&gt;Canadian Rockies&lt;/a&gt; so blog updates may be few and far between due to the risk of being in Internet darkness for a few days. </richText>
+  </textBox>
+  <image id="generic-picture-attributes" dynamic="no" visible="yes" src="7_147_Floors_of_Madness_files/shapeimage_3.png" left="0px" top="0px" width="400px" height="300px"/>
+</content>

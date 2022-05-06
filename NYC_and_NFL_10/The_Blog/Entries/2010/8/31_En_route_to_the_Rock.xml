@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<content collectionGUID="FBED3F81-4805-4BDF-8C0B-7C3A3F26D61E">
+  <lastEdited clientType="local-build-20121209" date="2012-12-09 01:03:16 +0000"/>
+  <textBox id="generic-header-attribute" dynamic="no" visible="yes">
+    <richText>new york and newfoundland</richText>
+  </textBox>
+  <textBox id="generic-body-attributes" dynamic="no" visible="yes">
+    <richText>Not long after we left Andrew and Mariann at the airport in New York we were welcomed by Steph and James at the Halifax airport. It was great to see them again in real life rather than through the computer on Skype!&#xD;Canadians have a big thing for beaver. Seeing this we immediately realised there is some distinct cultural differences between our two countries! If an Australian was that open he/she would be sharing a room with Tiger Woods at the sex clinic.&#xD;During our stay in Halifax we were privileged to sample the  world&#x2019;s best ice cream at &lt;a href="http://en.wikipedia.org/wiki/Cows_%28ice_cream%29"&gt;Cows&lt;/a&gt;. Being avid Ice Cream connoisseurs we thought such a statement was setting this little ice cream shop up for serious downfall. To our surprise Cows is true to it&#x2019;s word - we recommend any ice cream lover to make the trip to one of the many locations &lt;a href="http://www.cows.ca/storelocations/"&gt;throughout Canada&lt;/a&gt;!</richText>
+  </textBox>
+  <image id="generic-picture-attributes" dynamic="no" visible="yes" src="31_En_route_to_the_Rock_files/shapeimage_1.png" left="0px" top="0px" width="400px" height="250px"/>
+  <textBox id="generic-title-attributes" dynamic="no" visible="yes">
+    <richText>En route to the Rock</richText>
+  </textBox>
+  <textBox id="generic-datefield-attributes" dynamic="no" visible="yes">
+    <richText>&lt;b&gt;Tuesday, 31 August 2010&lt;/b&gt;</richText>
+  </textBox>
+</content>

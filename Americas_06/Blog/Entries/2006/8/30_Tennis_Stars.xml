@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+<content collectionGUID="E4E8FEA2-F762-464C-9889-08667D918930">
+  <lastEdited clientType="local-build-20121209" date="2012-12-09 01:06:20 +0000"/>
+  <textBox id="generic-title-attributes" dynamic="no" visible="yes">
+    <richText>Tennis Stars</richText>
+  </textBox>
+  <textBox id="generic-datefield-attributes" dynamic="no" visible="yes">
+    <richText>Tuesday, 29 August 2006</richText>
+  </textBox>
+  <textBox id="generic-body-attributes" dynamic="no" visible="yes">
+    <richText>Today we managed to meet one of the world biggest tennis stars - &lt;a href="http://en.wikipedia.org/wiki/Maria_Sharapova"&gt;Maria Sharapova&lt;/a&gt;.We were pretty lucky that she was looking for a little bit of a warm up before her hit out at the US Open later today. They had a radar gun to clock the speed of our serves. Flick reached 45 miles per hour and I wasn&#x2019;t far off the pace with a 88 miles per hour. The bloke told me that a number of my serves were too quick for the radar. I was pretty impressed about that! And before you ask let&#x2019;s not talk about accuracy!</richText>
+  </textBox>
+  <image id="generic-picture-attributes" dynamic="no" visible="yes" src="30_Tennis_Stars_files/shapeimage_3.png" left="0px" top="0px" width="400px" height="300px"/>
+</content>

@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<content collectionGUID="BEC9A371-F810-4947-B795-01C17BCE20CD">
+  <lastEdited clientType="local-build-20121209" date="2012-12-09 01:10:28 +0000"/>
+  <textBox id="generic-header-attribute" dynamic="no" visible="yes">
+    <richText>EUROPE 08</richText>
+  </textBox>
+  <textBox id="generic-title-attributes" dynamic="no" visible="yes">
+    <richText>Sans Plomb et sans fin des p&#xE9;ages</richText>
+  </textBox>
+  <textBox id="generic-datefield-attributes" dynamic="no" visible="yes">
+    <richText>Saturday, 11 October 2008</richText>
+  </textBox>
+  <textBox id="generic-body-attributes" dynamic="no" visible="yes">
+    <richText>After a couple of days driving we&#x2019;ve come to the realisation as to why the French government provide a fancy car leasing program at such a ridiculously low cost - to rope tourists in to paying road tolls!&#xD;&#xD;No complaints though (although we just did) the French highway system is absolutely amazing and makes it tremendously easy to get around. We did start the trip off with a minor bump - that being about half an hour of time in a petrol station trying to figure out if the machine took diesel (gasoil) or unleaded (sans plumb). After blocking one of his pumps for this amount of time and no doubt costing him a heap of money with the number of punters being turned away - the station owner came out and gave us a hand! Who said the French aren&#x2019;t polite!&#xD;&#xD;Everything has been going swimmingly awesome over the last few days. The car is tops, the GPS has made driving an absolute dream and to top it all off we&#x2019;ve met a number of really nice locals that have been helping us with our French. The hotel owner at our current place even commented that we spoke good French... well that is what we think he said!&#xD;&#xD;We are now spending a couple of nights in Nantes before possibly heading inland to Tours. At the conclusion of our Loire Valley expedition we are off down to La Rochelle.</richText>
+  </textBox>
+  <image id="generic-picture-attributes" dynamic="no" visible="yes" src="11_Sans_Plomb_et_sans_fin_des_peages_files/shapeimage_1.png" left="0px" top="0px" width="304px" height="162px"/>
+</content>

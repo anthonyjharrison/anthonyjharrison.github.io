@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<content collectionGUID="BEC9A371-F810-4947-B795-01C17BCE20CD">
+  <lastEdited clientType="local-build-20121209" date="2012-12-09 01:10:33 +0000"/>
+  <textBox id="generic-header-attribute" dynamic="no" visible="yes">
+    <richText>EUROPE 08</richText>
+  </textBox>
+  <textBox id="generic-title-attributes" dynamic="no" visible="yes">
+    <richText>Learnings So Far</richText>
+  </textBox>
+  <textBox id="generic-datefield-attributes" dynamic="no" visible="yes">
+    <richText>Friday, 17 October 2008</richText>
+  </textBox>
+  <image id="generic-picture-attributes" dynamic="no" visible="yes" src="17_Learnings_So_Far_files/shapeimage_1.png" left="0px" top="0px" width="420px" height="200px"/>
+  <textBox id="generic-body-attributes" dynamic="no" visible="yes">
+    <richText>After a couple of days on the bread and water waiting for Felicity to be able to stomach some food following her offal debacle we&#x2019;re back on track for our gastronomic tour of this fine country.&#xD;&#xD;During the drive south east from Bayonne to Narbonne we&#x2019;ve discovered a couple of interesting facts:&#xD;&#xD;	1.	Lourdes is a massive tourist trap and easily avoidable in any trip to France&#xD;	2.	No matter where you eat - whether a truck stop or a top of the line restaurant - the French take immense pride in their food preparation (thanks Rick Stein for the tip).&#xD;	3.	Drive into a roundabout with your eyes closed and your foot flat on the accelerator!&#xD;	4.	Did we say to avoid Lourdes??? God knows why Madonna named her first born after such a place. Maybe she wanted to be reminded of crazy pilgrims clambering over fake statues of the Virgin Mary!&#xD;&#xD;Hitting the Mediterranean in good time gives us the flexibility to enjoy a little of what the region has to offer - the scenery, the sand, the food and the wine. We&#x2019;ve got another 10 days with the car before we train to Paris and spend some time in the big smoke. &#xD;&#xD;Now enough writing and back to the pain au chocolat!!</richText>
+  </textBox>
+</content>

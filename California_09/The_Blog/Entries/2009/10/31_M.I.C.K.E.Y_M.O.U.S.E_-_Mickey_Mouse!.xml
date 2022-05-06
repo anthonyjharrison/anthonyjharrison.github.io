@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<content collectionGUID="1DE57B86-E38D-4837-8355-45FB4AE995CA">
+  <lastEdited clientType="local-build-20121209" date="2012-12-09 01:04:49 +0000"/>
+  <textBox id="generic-header-attribute" dynamic="no" visible="yes">
+    <richText>&lt;b&gt;California Dreaming&lt;/b&gt;</richText>
+  </textBox>
+  <textBox id="generic-body-attributes" dynamic="no" visible="yes">
+    <richText>&lt;b&gt;Our last few days take us south to a place called San Clemente where the beach is people free and the water is perfectly blue. Body boarding and sun-baking was going well until someone got crabs! (to be more precise - bitten by one) &#xD;&#xD;Of course we can&#x2019;t spend all our last days lazing around the water so we ventured to Disneyland. It was a fun experience but frustrating standing in queues all day. We went on a range of rides from the very sedate &#x201C;Winnie the Pooh&#x201D; to the raging waters of &#x201C;Splash Mountain&#x201D;. &#xD;&#xD;On the opposite end of the temperature scale we ventured to the Honda Centre for an ice-hockey match - Anaheim Ducks Vs Vancouver Canucks. It was a fierce match with the home team winning by 5 goals.&lt;/b&gt;</richText>
+  </textBox>
+  <textBox id="generic-title-attributes" dynamic="no" visible="yes">
+    <richText>M.I.C.K.E.Y M.O.U.S.E - Mickey Mouse!</richText>
+  </textBox>
+  <textBox id="generic-datefield-attributes" dynamic="no" visible="yes">
+    <richText>&lt;b&gt;Saturday, 31 October 2009&lt;/b&gt;</richText>
+  </textBox>
+  <image id="generic-picture-attributes" dynamic="no" visible="yes" src="31_M.I.C.K.E.Y_M.O.U.S.E_-_Mickey_Mouse%21_files/shapeimage_4.png" left="0px" top="0px" width="333px" height="250px"/>
+</content>

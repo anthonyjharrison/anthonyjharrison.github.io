@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+<content collectionGUID="E4E8FEA2-F762-464C-9889-08667D918930">
+  <lastEdited clientType="local-build-20121209" date="2012-12-09 01:06:23 +0000"/>
+  <textBox id="generic-title-attributes" dynamic="no" visible="yes">
+    <richText>There&#x2019;s a bear in there...</richText>
+  </textBox>
+  <textBox id="generic-datefield-attributes" dynamic="no" visible="yes">
+    <richText>Friday, 8 September 2006</richText>
+  </textBox>
+  <textBox id="generic-body-attributes" dynamic="no" visible="yes">
+    <richText>...but no chair or people with games!&#xD;&#xD;Yesterday, after a sad goodbye to Steph and James we arrived safely in Calgary - home of the 1988 winter Olympics. We didn&#x2019;t hang around long to take it in as we had a date with the magnificent Canadian Rockies! Armed with our &lt;a href="http://www.dodge.com/durango/"&gt;gas guzzling&lt;/a&gt; &lt;a href="http://en.wikipedia.org/wiki/SUV"&gt;SUV&lt;/a&gt; (true American style it is super fuel efficient running at 1 mile to the gallon!) we took off to explore &lt;a href="http://en.wikipedia.org/wiki/Lake_Louise%2C_Alberta"&gt;Lake Louise&lt;/a&gt; and &lt;a href="http://en.wikipedia.org/wiki/Moraine_Lake"&gt;Moraine Lake&lt;/a&gt;. The water colour was amazing. The bright turquoise hue is evident due to the water&#x2019;s journey from the glaciers above. Its not all that warm either - around 10 degrees.&#xD;&#xD;Our drive this morning was only 5 minutes old before we had to pull over. No major emergency, the road was blocked ahead by a mass of tourists. We slowed and peered into the bushes to see what the fuss was about. Low and behold it was a cute (I can say cute because we were at a safe distance locked in our car) grizzly bear. In true &lt;a href="http://en.wikipedia.org/wiki/Yogi_bear"&gt;Yogi Bear&lt;/a&gt; style he most certainly wasn&#x2019;t camera shy.&#xD;&#xD;Our travels took us back to Lake Louise where we did a lovely walk around the lake in the sunshine. The lake is truly magnificent and quite popular to many walks of life - luckily no bears! Lunchtime led us into British Colombia and &lt;a href="http://en.wikipedia.org/wiki/Yoho"&gt;Yoho National Park&lt;/a&gt; to see the &lt;a href="http://en.wikipedia.org/wiki/Takakkaw_Falls"&gt;Takakkaw Falls&lt;/a&gt; (one of the tallest falls in Canada). It was no where near as wide as Niagara, but we could feel the spray as we approached the bottom of the falls. &#xD;&#xD;Our afternoon took us back to Banff for a not so refreshing dip in the 40 degree water of the &lt;a href="http://en.wikipedia.org/wiki/Upper_Hot_Springs"&gt;natural thermal springs&lt;/a&gt;! We&#x2019;ll have to remember to do this in the winter!</richText>
+  </textBox>
+  <image id="generic-picture-attributes" dynamic="no" visible="yes" src="9_Theres_a_bear_in_there..._files/shapeimage_3.png" left="0px" top="0px" width="400px" height="300px"/>
+</content>

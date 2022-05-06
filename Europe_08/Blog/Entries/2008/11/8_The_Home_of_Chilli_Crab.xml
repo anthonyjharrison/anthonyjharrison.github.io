@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<content collectionGUID="BEC9A371-F810-4947-B795-01C17BCE20CD">
+  <lastEdited clientType="local-build-20121209" date="2012-12-09 01:10:55 +0000"/>
+  <textBox id="generic-header-attribute" dynamic="no" visible="yes">
+    <richText>EUROPE 08</richText>
+  </textBox>
+  <textBox id="generic-title-attributes" dynamic="no" visible="yes">
+    <richText>The Home of Chilli Crab</richText>
+  </textBox>
+  <textBox id="generic-datefield-attributes" dynamic="no" visible="yes">
+    <richText>Saturday, 8 November 2008</richText>
+  </textBox>
+  <image id="generic-picture-attributes" dynamic="no" visible="yes" src="8_The_Home_of_Chilli_Crab_files/shapeimage_1.png" left="0px" top="0px" width="212px" height="234px"/>
+  <textBox id="generic-body-attributes" dynamic="no" visible="yes">
+    <richText>Given the way our flights worked out we were lucky enough to have a couple of days to stop over in Singapore! It has been an enjoyable stay taking advantage of a little rest and relaxation, a tad of shopping and more good food (which has essentially been the theme of the entire trip!).&#xD;&#xD;Singapore has been a great location to break up the long flight home and fingers crossed will help us fight jet lag and enable a semi-productive work day on Monday! Although to be fair even at full capacity no one can really say that we&#x2019;re that productive!&#xD;&#xD;So after 18,400 kms in a plane, a tad under 1,000 kms via train and 3,500 kms behind the wheel of our trusty Peugeot our trip has concluded. Pity John Candy isn&#x2019;t still around to hep us make a sequel to the 80s classic &lt;a href="http://www.imdb.com/title/tt0093748/"&gt;Planes, Trains &amp; Automobiles&lt;/a&gt; - I know that he&#x2019;d make a perfect fit for my character although not sure how Steve Martin will play Felicity....&#xD;&#xD;Anyway that&#x2019;s all from us - along with the thousands of kilometres travelled we&#x2019;ve also taken close on 3,000 pictures so let us know if any of you would like us to tee up an enthralling slide night!</richText>
+  </textBox>
+</content>

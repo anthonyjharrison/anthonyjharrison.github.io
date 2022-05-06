@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+<content collectionGUID="E4E8FEA2-F762-464C-9889-08667D918930">
+  <lastEdited clientType="local-build-20121209" date="2012-12-09 01:06:21 +0000"/>
+  <textBox id="generic-title-attributes" dynamic="no" visible="yes">
+    <richText>ESB and Central Park</richText>
+  </textBox>
+  <textBox id="generic-datefield-attributes" dynamic="no" visible="yes">
+    <richText>Thursday, 31 August 2006</richText>
+  </textBox>
+  <textBox id="generic-body-attributes" dynamic="no" visible="yes">
+    <richText>Our last day in New York City finally gave us &#x2018;&lt;a href="http://www.littleriverband.com/"&gt;a little ray of sunshine&lt;/a&gt;&#x2019;. We had pre-paid tickets to the &lt;a href="http://en.wikipedia.org/wiki/Empire_State_Building"&gt;Empire State Building&lt;/a&gt; and luckily we held off on using them until the weather cleared up a bit. We were not disappointed with the view. It&#x2019;s amazing how far you can see and no doubt would have been pretty impressive to see the World Trade Centre sticking up downtown from atop the ESB&#x2019;s 86th floor observatory.&#xD;&#xD;Making the most of the first nice New York day we&#x2019;ve had, we headed to Central Park. We decided to hire a couple of bikes to make the most of the huge area to cover. It was great to see &lt;a href="http://www.centralparknyc.org/virtualpark/southend/strawberryfields"&gt;Strawberry Fields&lt;/a&gt; but the &lt;a href="http://www.guggenheim.org/new_york_index.shtml"&gt;Guggenheim&lt;/a&gt; was unfortunately undergoing an exterior restoration so we missed out on seeing its renowned architecture.&#xD;&#xD;Tonight is our last night in New York before our train up north to Montreal tomorrow. Dinner tonight is going to be great fun as we are catching up yet again with another of Felicity&#x2019;s connections - Suzette a good friend from University. If time permits we might even drop in to the &lt;a href="http://www.mtv.com/ontv/vma/2006/?source=TLD_vma.mtv.com"&gt;MTV Video Music Awards&lt;/a&gt; which are being held at the  Rockefeller Centre tonight. &lt;a href="http://en.wikipedia.org/wiki/Justin_Timberlake"&gt;JT&lt;/a&gt; is opening the show which excites Felicity a disturbingly large amount.</richText>
+  </textBox>
+  <image id="generic-picture-attributes" dynamic="no" visible="yes" src="1_ESB_and_Central_Park_files/shapeimage_3.png" left="0px" top="0px" width="400px" height="300px"/>
+</content>

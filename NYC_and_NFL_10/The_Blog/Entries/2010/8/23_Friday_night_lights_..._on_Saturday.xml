@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<content collectionGUID="FBED3F81-4805-4BDF-8C0B-7C3A3F26D61E">
+  <lastEdited clientType="local-build-20121209" date="2012-12-09 01:03:12 +0000"/>
+  <textBox id="generic-header-attribute" dynamic="no" visible="yes">
+    <richText>new york and newfoundland</richText>
+  </textBox>
+  <textBox id="generic-body-attributes" dynamic="no" visible="yes">
+    <richText>The &lt;a href="http://en.wikipedia.org/wiki/New_Meadowlands_Stadium"&gt;New Meadowlands Stadium&lt;/a&gt; is an 85,000 seat US$1.7 billion complex. We were lucky enough to see the second game ever played there (the first was only a week earlier) with the NY Giants taking on the Pittsburg Steelers. Unfortunately the Giants went down 24 to 17.&#xD;American Football is an exceptionally interesting game - Four 15 minute quarters take about 3 hours. Obviously to allow you plenty of time to make multiple trips to the frank stand to get yourself an artery hardening ketchup, mustard and relish covered dog!&#xD;Seats were amazing though - seven rows from the front - right on 10 yard line. Great work from AJ scoring these!</richText>
+  </textBox>
+  <image id="generic-picture-attributes" dynamic="no" visible="yes" src="23_Friday_night_lights_..._on_Saturday_files/shapeimage_1.png" left="0px" top="0px" width="400px" height="250px"/>
+  <textBox id="generic-title-attributes" dynamic="no" visible="yes">
+    <richText>Friday night lights ... on Saturday</richText>
+  </textBox>
+  <textBox id="generic-datefield-attributes" dynamic="no" visible="yes">
+    <richText>&lt;b&gt;Monday, 23 August 2010&lt;/b&gt;</richText>
+  </textBox>
+</content>

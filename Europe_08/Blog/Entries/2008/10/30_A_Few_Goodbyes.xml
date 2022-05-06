@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<content collectionGUID="BEC9A371-F810-4947-B795-01C17BCE20CD">
+  <lastEdited clientType="local-build-20121209" date="2012-12-09 01:10:49 +0000"/>
+  <textBox id="generic-header-attribute" dynamic="no" visible="yes">
+    <richText>EUROPE 08</richText>
+  </textBox>
+  <textBox id="generic-title-attributes" dynamic="no" visible="yes">
+    <richText>A Few Goodbyes</richText>
+  </textBox>
+  <textBox id="generic-datefield-attributes" dynamic="no" visible="yes">
+    <richText>Thursday, 30 October 2008</richText>
+  </textBox>
+  <image id="generic-picture-attributes" dynamic="no" visible="yes" src="30_A_Few_Goodbyes_files/shapeimage_1.png" left="0px" top="0px" width="420px" height="200px"/>
+  <textBox id="generic-body-attributes" dynamic="no" visible="yes">
+    <richText>After 3511 kilometres, 197 Euro in tolls and close on 500 Euro in petrol later it was time to hand over our trusty little Peugeot. After close on 3 weeks the little silver rocket had become a member of the family - enabling us to see areas of the country not achievable via any other means of transportation. In handing over the car it was also time to say goodbye to the South of France. We had a great week in the area - minus the few days in Marseille - and it was time to head up to Paris.&#xD;&#xD;Showcasing our enjoyment of France&#x2019;s second largest city we embarked on the best activity someone can do if they happen to find themselves in Marseille .... leave. With that in mind we jumped on the TGV which in turn catapulted us across the 800 odd kilometres to Paris in just on 3 hours.&#xD;&#xD;On arriving in Paris we immediately noticed a considerable temperature drop - goodbye shorts and tee shirts and hello winter woolies!</richText>
+  </textBox>
+</content>
